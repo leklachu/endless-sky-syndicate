@@ -1,0 +1,31 @@
+- starting ship automatically depreciates to 25% value; this is correct. Beware this doesn't change with game code changes!
+- can't see any way to make Whitewashed Princess launch with 1 crew in event of decline :-(
+- Bug::interest rates >= 1% or <0.1% format wrong in bank display
+- TODO easter egg if complete FW story with Sc good-luck start
+- Difficult to make 'event war begins' flexible, so having condition+warning in case player waits too long to complete bootstrap quest and can't bring nuke to clink
+- current package-drop probably completes in Jan 2014, at odds with FW 'mid-June'.
+- naming scheme "syndicate x" probably cause conflicts if merged with main
+- immersion break if piloting single-pilot ship while co-pilot still around
+- seems `not <>` conditions are ready immediately from intro conversation, but `has <>` are only ready after taking off and landing!
+- bootstrap 1b dest Amazon, is a frontier world... better somewhere easier to land, but check surrounding story for consistency
+- bootstrap 3a not sure how to change payment based on whether you need advance for weapons
+- potential bug bootstrap 3a/b: a has 1 passenger requirement; b has none (temporarily 1 to avoid this bug) but b silently fails on a accepted otherwise auto-accepted
+- need Syndicate Intro Complete to allow Hephaestus meeting to trigger
+- "to fail" dialogues don't appear to be working.
+- 'visit' messages
+- ships on bootstrap 3b keep chasing even into republic space!
+- is it just good luck that in Package Delivery you don't get caught if scanned?
+- have obituaries column occasionally in news, if Syndicate Bootstrap Too-Late
+- no way to set payment within mission conversation? if there is, can allow player to accept offer without getting best bargain. (Sc Bootstrap Too-Late) ... maybe can apply credits in the on-complete block
+- if change payment on Bootstrap 5, must change text on Bootstrap Too-Late
+- should logs be first or second person? seems most FW logs are carefully crafted to be neither
+- make Co-Pilot person ship, if complete Sc Package 5
+- is there some way to refuel on Mutiny? Awkward to get stuck there with no fuel! Could briefly add a spaceport? but makes fitting with the story harder
+
+
+- Nuke Testing on Clink canonically mid-June
+- War Begins 04/07
+- start 16/11
+- original test on mutiny
+
+- event: start of hostilities is partly FW-specific

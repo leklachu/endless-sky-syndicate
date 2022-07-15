@@ -1,0 +1,14 @@
+person "Quantum"
+	government "Author"
+	personality
+		disables mining harvests unconstrained surveillance 
+	phrase
+		word
+			"The Ace of Sol"
+			"Luna Queen"
+			"Quater-ion to the left and straight on till Tuesday"
+			"The moon goes tick, tick, tick, tick"
+			"Eleven dimensions and counting..."
+	frequency 100
+	ship "Extended Gull" "Quantum"
+		"never disabled"

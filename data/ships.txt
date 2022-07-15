@@ -1,0 +1,134 @@
+ship "Star Queen" "Star Queen (Discount)"
+	outfits
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 90
+		"Anti-Missile Turret"
+		
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Small Radar Jammer" 2
+		
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+
+ship "Star Queen" "Star Queen (Fake Discount)"
+	add attributes
+		"outfit space" 10
+	outfits
+		"AR120 Reverse Thruster"
+		"Antimatter Core"
+		"Crystal Capacitor"
+		"Scram Drive"
+		"Large Heat Shunt"
+		"Luxury Accommodations"
+		"Point Defense Turret"
+		"Quarg Skylance"
+		"Small Thrust Module"
+		"Steering (Comet Class)"
+		"Steering (Lunar Class)"
+		"Thruster (Lunar Class)"
+
+
+ship "Flivver" "Flivver (Runaway)"
+	outfits
+		"Meteor Missile Pod" 2
+		"Meteor Missile" 6
+
+		"D14-RN Shield Generator"
+		Hyperdrive
+
+		"KP-6 Photovoltaic Panel"	
+		Supercapacitor
+		"X1050 Ion Engines"
+
+ship "Quicksilver" "Quicksilver (no particle cannon)"
+	outfits
+		"Energy Blaster" 2
+
+		"RT-I Radiothermal"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Cooling Ducts"
+
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+ship "Extended Gull"
+	sprite "ship/gull"
+	thumbnail "thumbnail/gull"
+	attributes
+		category "Light Freighter"
+		cost 950
+		"shields" 13000
+		"hull" 5000
+		"required crew" 3
+		"bunks" 20
+		"mass" 270
+		"drag" 10.1
+		"heat dissipation" 1
+		"fuel capacity" 600
+		"ramscoop" 3
+		"cargo space" 175
+		"outfit space" 591
+		"weapon capacity" 200
+		"engine capacity" 164
+		"shield generation" 4.8
+		"shield energy" 1.1
+		"hull repair rate" 2.1
+		"hull energy" 0.5
+		"cloak" .02
+		"cloaking energy" 5
+		"cloaking fuel" .1
+		"outfit scan power" 12
+		"outfit scan speed" 1
+		"tactical scan power" 86
+		weapon
+			"blast radius" 80
+			"shield damage" 800
+			"hull damage" 400
+			"hit force" 1200
+	outfits
+
+		"Scram Drive"
+		"Quantum Keystone"
+		"Antimatter Core"
+		"Crystal Capacitor"
+		"Fuel Processor" 4
+		"Ka'het Support Cooling"
+		"Luxury Accommodations"
+
+		Flamethrower 7
+		"Quarg Skylance"
+		"Tier 3 Anti-Missile"
+		"Pug Peacekeeping Staff" 2
+
+		"Bellows-Class Afterburner"
+		"Ionic Afterburner"
+		"Volcano Afterburner"
+		"Smelter-Class Steering"
+		"Smelter-Class Thruster"
+
+	engine -12 70 0.7
+	engine 12 70 0.7
+	engine 0 78 1
+	gun 0 -96 Flamethrower
+	gun -7 -94 Flamethrower
+	gun 7 -94 Flamethrower
+	gun -10 -90 Flamethrower
+	gun 10 -90 Flamethrower
+	gun -13 -92 Flamethrower
+	gun 13 -92 Flamethrower
+	turret 0 28 "Tier 3 Anti-Missile"
+	turret 0 8 "Quarg Skylance"
+	leak "remnant leak" 30 7
+	leak "remnant leak sparkle" 30 7
+	explode "tiny explosion" 40
+	explode "small explosion" 20
+	explode "medium explosion" 10
+	"final explode" "final explosion small" 1
+	description "While the Starling was the first successful ship to use technology derived from alien ruins, the Gull is the most recent. The Extended Gull takes this to a new level, progressing part way from analogue to something not quite digital."
+	description "	Incorporating technology from the Pug and the Quarg, this e-Gull is beyond golden."
+
+
