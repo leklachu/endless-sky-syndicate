@@ -1,7 +1,26 @@
-# People you meet
+# People and Places
+
+(make sure logs on each)
 
 Co-Pilot
 
 Sawyer
 
-Benjamin Downey (Syndicate 'Greater Manager')
+Benjamin Downey (Syndicate 'Greater Manager'), office on Shangri-La (check)
+
+Uncle William C. Watermann: CEO of Watersoft
+
+Watersoft: Main HQ on Reunion/Caph; CEO office on Crossroads/Ruchbah
+
+WC's Wives
+
+- Amanda, 'main' wife on Crossroads
+- Elaina on Moonshake. Goes to Foundry with WC
+- Maurissa on Foundry. (optional) goes on holiday
+- Lily, Amanda's maid on Crossroads
+
+Franz Francis Jr: (a?) Syndicate CEO on Hephaestus
+
+Professor Egelbert Lenforth of the Syndicate Senior Executive Committee
+
+Wilkins, pilot of the Korath-catching group ScS Fight Club 1

@@ -35,15 +35,14 @@ The Syndicate: the company, the managers, indeed the population (not that they
 matter...), are facing recession. Can you help them avoid it and get to new
 prosperity?
 
-- will vary a bit depending on whether the terrorist strike has happened
-  - or can modify the terror event to only happen when you're at right place in mission
+
 - help transport fissile material to clink and/or near-navy-base could happen only if terror attack not yet happened
-  - this mission could happen early in bootstraps
+  + In bootstraps
+  + depending on whether the terrorist strike has happened
 
 Participate in FW events
 
 - encourage/exploit/benefit-from Navy expansion
-- escorts to Tarazed: Wolf Pack attacks on the return leg
 - participate in supplying pirate-alphas with nukes, without really knowing what's going on
 - try to capture Ijs (before rescued by FW protagonist)
 - 10T parts to Tundra/Cebalrai for FW Pirate Diplomacy Thule
@@ -54,6 +53,8 @@ Other missions
 - join a fight against a Korath
 - transport an alpha (knowingly? unknowingly?)
 - exploit the war for personal riches, and riches of those who 'might help' you
+- prevent some people from defecting to FW (to fight, or to find new work)
+- escorts to Tarazed: Wolf Pack attacks on the return leg
 
 Connections with alphas
 
@@ -81,6 +82,7 @@ Participate in FW events
 - OR hinder the defector for the sake of the Syndicate-worlds population who would suffer
   - leads to a storyline of rooting out extremists and eventually raiding alpha pirate base
 - (later) pressure/force the CEO to consider his resignation
+	+ N.B. CEO Korban "been working on his resignation letter since meeting FW Captain", post pug invasion
 - Transport CEOs/whatevers to FW diplomacy meeting
 - make sure the police-actioned economist is in the right place at the right time
 
@@ -141,6 +143,10 @@ You're stuck in Pug space. Maybe you can find the Alpha's ship easier, because i
 - you nearly catch alphas, but they jump-drive out before you can catch them
   - if you see them jump-drive out, is there risk player with OP weapons can kill them?
 
+- Pug give their usual speech
+	+ reply: The same idea by the Syndicate led to this mess!
+		* not strictly true, but close enough when you're angry
+
 Oppose the pug
 
 - can you fight the pug to take them out and free humanity?
@@ -149,6 +155,7 @@ Oppose the pug
 Collaborate with the pug
 
 - ask pug for help... what do they say?
+	+ something derogatory about humans and their genetically-engineered abomination, and always having to help out
 - pug provide ship with jump drive? or something? one-time wormhole? cf. elves-help-deep-against-alphas-long-ago
 - would be cool if this gives a unique outfit reward
 

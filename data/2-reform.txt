@@ -1,0 +1,5 @@
+event "ScS help help"
+
+mission "ScS Call to Aid"
+	to offer
+		has "event: ScS help help"

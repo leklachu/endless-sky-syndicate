@@ -31,15 +31,16 @@ start "syndicate"
 
 conversation "syndicate intro"
 	scene "scene/lobby"
-	`You arranged ahead of time for the company to buy you a spaceship, as a 'bonus'. In the last few months as company troubles mounted, and workers were laid off, and assets pledged as securities, executive functions and retreats have dwindled almost to nothing and you've had to make do with very austere compensation - so surely they can afford you this little bonus.`
+	`You arranged ahead of time for the company to buy you a spaceship, as a 'bonus'. Company troubles have mounted, workers were laid off, and assets pledged as securities: and in the last few months executive functions and retreats have dwindled almost to nothing, while you worked so hard in time of crisis. You've had to make do with very austere compensation - so surely they can afford you this little bonus.`
 	`	A simple pilot's Star Barge would never do for you, besides you're not used to the rough living of ordinary space life - in fact you've never been off-world before! But your secretary's uncle, himself a manager at a shipbuilding company, has promised you the best, a Star Queen.`
-	`	You bought it with company money, so it won't add to your own not-inconsiderable debts, but it's in your name, so when the company goes bust, you keep the ship. Now at last you sign your name into the ship's records:`
+	`	You bought it with company money, so it won't add to your own, not-inconsiderable debts, but it's in your name, so when your company goes bust, you keep the ship. Now at last you sign your name into the ship's records:`
 	name
-	`	You walk over to the hangar to see your new ship. Finally, you'll be free from this world, free from the rules of your superiors, free from the dregs of society, free to roam the stars of the endless sky.`
+	`	You walk over to the hangar to see your new ship. Finally, you'll be free from this world, free from the rules of 'superiors', free from the dregs of society, free to roam the stars of the endless sky.`
 	action
-		give ship "Star Queen (Discount)" "Whitewashed Princess"
+#		give ship "Star Queen (Discount)" "Whitewashed Princess"
+		give ship "Nova Princess" "Empress Ignited"
 
-	`When you get on board your beautiful ship, the Whitewashed Princess, you are met by a man a bit too well dressed for your comfort, and for a moment you wonder if there's been a terrible mistake and your company thinks it owns your new ship. He greets you in a perfectly expressionless voice, from a perfectly expressionless face.`
+	`	When you get on board your beautiful ship, the Whitewashed Princess, you are met by a man a bit too well dressed for your comfort, and for a moment you wonder if there's been a terrible mistake and your company thinks it owns your new ship. He greets you in a perfectly expressionless voice, from a perfectly expressionless face.`
 	`	"Welcome aboard the Whitewashed Princess, Captian <last>. I am your co-pilot, and as your second-in-command I can also offer you some advice as you you start your new flying career."`
 	choice
 		`	"Thank you. If you have good ideas, not dimwitted ones about 'downsizing executive bonuses,' then I'm all ears."`
@@ -155,7 +156,7 @@ mission "Sc Bootstrap 1a"
 		has "Syndicate Start"
 		not "Syndicate Line Fail"
 	on fail
-		dialog `You have failed an essential Syndicate storyline mission, to complete the storyline load from an earlier save or TRY AGAIN YOU USELESS EMPLOYEE!!`
+		dialog phrase failure
 	on offer
 		conversation
 			`You look around, admiring your ship for a while, trying to take stock of your new situation. Even before you get as far as the outfitters, your co-pilot comes looking for you.`
@@ -213,13 +214,13 @@ mission "Sc Bootstrap 2"
 				`	"Humph. At least the pay should be good, when it comes."`
 					goto pay
 				`	"What! You said I'd be invited."`
-			`	"I guess they forgot," he replies blandly, as if that was a perfectly natural thing to do.`
+			`	"I guess they forgot," he replies blandly, as if that were perfectly natural.`
 			`	"What about the payment," you ask.`
 			label pay
 			`	"You should have got that already. Didn't you check your account?"`
 			`	"10,000 came in," you say. "Where's the rest of the 300,000?"`
 			`	"They must have spent most of it on the ballarinas. The champagne and truffles can't have been cheap either. Anyway if it's money you want, I've found you a lucrative job, one that will pay top dollar - to you this time."`
-			`	You mumble something about the working class and how they don't even work properly and take all the money you should have. Maybe this new job will be better, if it doesn't involve the common rabble.`
+			`	You mumble something about the working class and how they don't even work properly and take all the money for themselves. Maybe this new job will be better, if it doesn't involve the common rabble.`
 			choice
 				`	"That sounds better, what is it?"`
 			`	"Some sewage was shipped to <origin> by accident, it seems, and station managers want it moved on as fast as possible. They'll pay you <payment> to take it to <destination>."`
@@ -257,7 +258,7 @@ mission "Sc Bootstrap 3a"
 	on offer
 		conversation
 			`	In the spaceport you find your co-pilot with a hologram of a small spaceship. He explains it's the getaway craft of a Syndicate manager whose company crashed, and the manager is trying to escape responsibility.`
-			`	"Higher management want this man brought back to <planet>. His ship has just entered this system, and is in bad shape. Find it, board it, and take him to <destination to face justice."`
+			`	"Higher management want this man brought back to <planet>. His ship has just entered this system, and is in bad shape. Find it, board it, and take him to <destination> to face justice."`
 			choice
 				`	"I'll go and buy the biggest weapons I can afford."`
 					goto weapons
@@ -280,7 +281,7 @@ mission "Sc Bootstrap 3a"
 				decline
 
 			label weapons
-			`	"I don't think you'll need so much, looking at this he's not going anywhere today. Still doesn't hurt to be sure. Just don't kill him."`
+			`	"I don't think you'll need so much: looking at this he's not going anywhere today. Still doesn't hurt to be sure. Just don't kill him."`
 			label deliver
 			`	"Disable his ship and board it to pick him up, then fly to <destination>"`
 				accept
@@ -494,10 +495,10 @@ mission "Sc Package Delivery 1"
 			`	Around the landing spot are a handful of prefabricated buildings, each uglier than the last, as if the architect was trying for the "Least Memorable Place in the Galaxy" award. You can't find anything fun, nor any sign of Sawyer or your co-pilot.`
 			choice
 				`	(Check more buildings)`
-			`	You find a door marked "Entry Strictly Forbidden," and take a look inside. The interior is as drab as the exterior, and you're so bored you start walking dejectedly back to the <ship>. Half way there, who is walking towards you but your co-pilot!`
+			`	You find a door marked "Entry Strictly Forbidden," and take a look inside. The interior is as drab as the exterior, and you're so bored you leave and start walking dejectedly back to the <ship>. Half way there, who is walking towards you but your co-pilot!`
 			`	"Captain," he says. "I hope you weren't leaving just yet, we're in luck.`
 			label inluck
-			`	"This is the big one. This is the Golden Egg. It might almost pay off all your loans. A team from the research facility has a very important package they need delivering to colleagues on <destination>, and they'll pay very well for it.`
+			`	"This is the big one. This is the Golden Egg. It might even pay off all your loans. A team from the research facility has a very important package they need delivering to colleagues on <destination>, and they'll pay very well for it.`
 			`	"I hope you can find your way, it's a little tricky navigating so far without always knowing the hyperlink network, but I'm sure you'll find it. There's plenty of time to make a few wrong turns, but don't take too long."`
 				accept
 	on complete
@@ -601,6 +602,7 @@ mission "Sc Package Delivery 5"
 	on complete
 		log `Flew around the galaxy doing stupid jobs in my exclusive, private ship. At least, at the end, the last, maddening job paid off most of my loans. Finally I'm free to roam the galaxy as a real Space Captain. Perhaps the Syndicate will come asking for me in the future for more important jobs.`
 		log "People" "Benjamin Downey" `A high-level manager in the Syndicate, in a high-level office on Shangri-La. He paid you for delivery of the researchers' 'package' on Clink.`
+		set "met benjamin downey"
 		payment 8000000
 		conversation
 			`On <planet> you meet up with the manager who's authorised to pay you for your galaxy-spanning delivery. Through many corridors, up many lifts, past security more than once, and finally you reach a doorway labelled, "Benjamin Downey, Greater Manager". You hope he won't just turn you away.`

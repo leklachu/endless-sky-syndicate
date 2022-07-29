@@ -1,4 +1,8 @@
-Sc Bootstrap
+# Bootstraps
+
+Pull yourself up by your bootstraps.
+
+
 
 - 0 Meet co-pilot come advisor
 - 1 ballerina troupe to exec party: most of payment goes on them, you get little
@@ -26,3 +30,16 @@ other
 
 - Katya karate fail
 - warning about letting time pass deviously, or buying smaller ship
+
+## Notes and TODO
+
+Intro awkward for newbies
+
+- First missions should auto-happen, or come on landing. Going to spaceport on very first mission is awkward
+
+Money: still lots of loan left at the end... maybe better to up the repayment to 10M?
+
+- maybe still fine to pay off, with that big ship
+- but big ship takes 5k/day salaries
+- and could be frustrating, even if fair-ish compared to main
+- then again, mostly not 1st time players playing this module

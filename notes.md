@@ -14,6 +14,7 @@
 - "to fail" dialogues don't appear to be working.
 - 'visit' messages
 - ships on bootstrap 3b keep chasing even into republic space!
+	+ can make them "staying launching"
 - is it just good luck that in Package Delivery you don't get caught if scanned?
 - have obituaries column occasionally in news, if Syndicate Bootstrap Too-Late
 - no way to set payment within mission conversation? if there is, can allow player to accept offer without getting best bargain. (Sc Bootstrap Too-Late) ... maybe can apply credits in the on-complete block
@@ -21,7 +22,23 @@
 - should logs be first or second person? seems most FW logs are carefully crafted to be neither
 - make Co-Pilot person ship, if complete Sc Package 5
 - is there some way to refuel on Mutiny? Awkward to get stuck there with no fuel! Could briefly add a spaceport? but makes fitting with the story harder
+- check later FW-line events; haven't noted all in Sc mission summaries
+- some missions (e.g. Hai-human outfitter) assume you're the hero of humanity if "main plot completed" but others also depend on it to know the war's over.
+- many of the payments (especially early in Rescue) in ScS aren't well thought through or compared to FW and other missions
+- also some incongruity in dialogue if passenger space only on escorts not flagship
+- Offering a mission based on condition set in conversation doesn't enable until re-entering planet.
+	+ instead need to e.g. test not something, then set in alternative dialogue if not wanting
 
+- ScS rescue section has syndicate new tech; but 'FW reconciliation' ambassadors to bourne mentions syndicate post-check-mutiny have new tech.
+	+ reasonable: developed earlier, finalised and more used later
+- looks like require luxury accomm on ScS Get Rich, allows exploit of have luxury accom in your cargo!
+- Also doesn't allow installed into a different ship - but doest allow in cargo of different ship.
+- Also LA can be installed in flagship, but passenger space in an escort!
+- Catch a Fly 4,3 in that order so hopefully 3 triggers first and allows 4 to trigger, but block 4 if 3 blocked by no passenger space.
+	+ but it won't work. Pretty sure conditions checked before entering spaceport
+	+ instead start 4 after 3
+
+- News on earth after syndicate links severed: rumours of syndicate fleets fighting each other
 
 - Nuke Testing on Clink canonically mid-June
 - War Begins 04/07
@@ -29,3 +46,17 @@
 - original test on mutiny
 
 - event: start of hostilities is partly FW-specific
+
+Syndicate CEO
+
+- CEO of entire Syndicate Corporation is Alastair Korban
+- headquarters on Foundry
+- claims to have purged the extremists and be sorry... but doesn't sound so truthful
+- "raid on Nimbus interruped plans to hunt down perpetrators"
+- according to FW Syndicate Diplomacy, Syndicate HQ on Hephaestus
+
+- Do you get Syndicate salary? If so does it stop later?
+	+ surely get salary at start of joining Syndicate
+- Do you lose Syndicate colours later?
+	+ I don't think so
+	+ in which case probably keep salary... might increase too at points:
