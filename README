@@ -1,4 +1,4 @@
-# Syndicate Storyline for Endless Sky
+# Syndicate Storyline for Endless Sky, v0.1
 
 This is an alternate start for Endless Sky, with a full storyline running parallel to the Free Worlds story.
 
@@ -10,7 +10,8 @@ I've written the story outline for the rest, up to the end of the civil war, but
 
 ## How to play/install
 
-First play Endless Sky [https://github.com/endless-sky/endless-sky/](https://github.com/endless-sky/endless-sky/). I recommend playing the main version first, up to the end of the main Free Worlds storyline. This alternate-start's intro is not as helpful for beginners, and maybe the story is more fun if you already know what's happening on the Free Worlds side... or, maybe it's fun the other way around! Good point! Well, up to you then.
+First play Endless Sky (https://github.com/endless-sky/endless-sky/). I recommend playing the main version first, up to the end of the main Free Worlds storyline. This alternate-start's intro is not as helpful for beginners, and maybe the story is more fun if you already know what's happening on the Free Worlds side... or, maybe it's fun the other way around! Good point! Well, up to you then.
 
 To play, download this repository (or a release folder) into your plugins directory for Endless Sky. You probably already know how. If not, let me know, and I'll get round to updating this readme with the instructions.
 
+You need Endless Sky minimum version 0.9.15, which at time of writing is the continuous build in the main Endless Sky project.
