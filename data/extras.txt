@@ -13,3 +13,21 @@ government "Militia (Rogue)"
 		"Militia" .01
 	"friendly hail" "friendly militia"
 	"hostile hail" "hostile militia"
+
+mission "The End has Not Yet Been Written 1"
+	minor
+	name "The End?"
+	description "The Ending has not yet been written."
+	to offer
+		has "event: ScS help help"
+#		has "ScS Last Straw 1: done"
+		not "ScS reform is written"
+	on offer
+		conversation
+			`After your rude expulsion from Syndicate prestige, you flew around the galaxy a while, thinking something would happen. A surprise message from someone. Perhaps an end to the war. Who knows!- but, it seems, the galaxy is stagnant.`
+			`	Today in the spaceport, to relax you pulled out your old i386 laptop, a family heirloom, and tried some of the classic games. "Ah, books," you sigh as you close it up, "they take you so easily into another world. If only life were so simple, and its puzzles so solveable." But as you head back to your ship you're struck by one thought in particular:`
+			``
+			`	The Ending has not yet been written.`
+				accept
+	to complete
+		has "ScS reform is written"

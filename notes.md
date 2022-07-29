@@ -60,3 +60,7 @@ Syndicate CEO
 - Do you lose Syndicate colours later?
 	+ I don't think so
 	+ in which case probably keep salary... might increase too at points:
+
+Ending has not yet been written:
+
+- end part I: requires "event: ScS help help" to trigger 'not yet written' message.
