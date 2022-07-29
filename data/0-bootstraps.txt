@@ -37,8 +37,8 @@ conversation "syndicate intro"
 	name
 	`	You walk over to the hangar to see your new ship. Finally, you'll be free from this world, free from the rules of 'superiors', free from the dregs of society, free to roam the stars of the endless sky.`
 	action
-#		give ship "Star Queen (Discount)" "Whitewashed Princess"
-		give ship "Nova Princess" "Empress Ignited"
+		give ship "Star Queen (Discount)" "Whitewashed Princess"
+#		give ship "Nova Princess" "Empress Ignited"
 
 	`	When you get on board your beautiful ship, the Whitewashed Princess, you are met by a man a bit too well dressed for your comfort, and for a moment you wonder if there's been a terrible mistake and your company thinks it owns your new ship. He greets you in a perfectly expressionless voice, from a perfectly expressionless face.`
 	`	"Welcome aboard the Whitewashed Princess, Captian <last>. I am your co-pilot, and as your second-in-command I can also offer you some advice as you you start your new flying career."`
