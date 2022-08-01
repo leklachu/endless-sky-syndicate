@@ -19,7 +19,7 @@ mission "Weapon Salesman"
 		conversation
 			`As you enter the spaceport, you bump into a mildly famous Syndicate executive and visiting professor. You recognise him as having taught a business class you took long ago. Apparently he recognises you too.`
 			`	"Hello there, Captian... Captain..."`
-			`	"<name>," you prompt him.`
+			`	"<last>, <first> <last>" you prompt him.`
 			`	"Yes, Captain <last>. You look like the sort of galaxy-trotting, intelligent individual who'd be good with a business deal. There's a board meeting on <destination> in a few days, why don't you come and join in?"`
 			choice
 				`	"Sounds like a good opportunity."`
