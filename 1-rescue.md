@@ -15,6 +15,7 @@ There's a troublemaker. ScS Catch a Fly
 
 - 1 catch one of the biggest troublemakers (Ijs on <?> planet)
 	+ chosen sides: join syndicate
+	+ [todo] syndicate gvmt reputation +++!
 	+ 56-68 days.. events: start of hostilities (modified) and Kornephoros (re)capture - get news when happened
 	+ another 50 days: event: oathkeepers founded
 		* and block FW-aligned news mission
@@ -27,6 +28,7 @@ Syndicate should stay supreme: corporate espionage. ScS Espionage
 
 - 1 Betelgeuse
 	+ Salary increase
+	+ "ScS syndicate trusted"
 
 ## after: start of hostilities / kornephoros event; and min 20 days after ScS Espionage 1
 
@@ -45,11 +47,7 @@ WCW needs some help. ScS Wifery
 - Holiday: take her on holiday to Sunracer
 - OR Help 1: tell her the truth and take her to Crossroads to meet Amanda
 	+ 2: and on to Sunracer
-
-Side-arc to help the wives [TODO]
-
-- help them to find out who each other are, and to plot for their safety, happiness, emancipation
-	+ and optionally WCW's downfall
+	+ Side-arc to help the wives (below)
 
 FW terrorists want to negotiate: this is good... ;-) ScS Negotiation
 
@@ -116,7 +114,9 @@ WCW needs your help again. ScS Last Straw
 - 1. WCW asks you to ship less-productive workers to (??); he'll hire more at lower pay and give you % of pay difference
 	+ You refuse...
 	+ (stop syndicate salary till undercover work in 'reform' phase)
-	+ (todo) need autosave before dying?
+	+ (clear ScS syndicate trusted till u'cover rejoin)
+- (optional) try to check in with Franz after suspension. ScS Suck-up
+	+ N.B. requires first Reform mission to be called "ScS Call to Aid"
 
 Ends:
 
@@ -126,26 +126,57 @@ Ends:
 	+ FW line contemporary: 50 days to fw occupy north
 		* (todo) include this in ScS here or next
 
-# side jobs:
+# Extra jobs and missions:
 
-- transport an alpha unknowingly [todo?]
+Syndicate espionage further side jobs: ScS Spy/Fly __
 
-Syndicate espionage further side jobs [TODO]
+- Betelgeuse
+- Tarazed/Wayfarer
+- Southbound Shipyards / Zug
+- Lionheart Industries/Epsilon Leonis
+- Megaparsec/Sunracer
+- Deep sky / Asgard/Naos
+- Kraz/rust
+- Lovelace Labs Pilot,Carbuncle/Elnath ; Ada/Aldebaran
+- [todo] Delta V Solace/Pherkad
 
-- 2 Lionheart Industries/Epsilon Leonis
-- 3 Tarazed/Wayfarer
-- 4 Southbound Shipyards / Zug
-- 5 Megaparsec/Sunracer
-- WCW thinks so too... for his own company
-	+ espionage/etc against other companies within syndicate
-		* e.g. transport other CEO/execs & listen in to meeting or drop in wrong place
+WC thinks espionage is good too... for his own company [todo]
 
-check in with Franz after suspension ScS Suck-up
+- espionage/etc against other companies within syndicate
+	+ e.g. transport other CEO/execs & listen in to meeting or drop in wrong place
 
-- if on Hephaestus between Rescue and Reform,
-	+ "do you want to go and see Franz to explain your side of the story"
-	+ but no chance
-	+ N.B. requires first Reform mission called "ScS Call to Aid"
+transport alphas to/from Buccaneer Bay (ScS Alpha Back/Forth)
+
+Side-arc to help the wives. ScS Wifery 2..
+
+- 2a, Lily contacts you
+	+ of her own initiative: A&M still on holiday
+	+ Found info on another two of WC's wives. want to help?
+- 2b, Jennifer on Hippocrates/Alnair:
+	+ take written message, gift and explain
+	+ good reaction
+- 2c,d, Susanna on Tinker/Diphda:
+	+ accuses you of lying, threatens to expose you to WC
+	+ Amanda turns up
+	+ future: better to find out a bit more about each wife before revealing
+- 2e, (optional) Take Amanda on to Canyon to get to know another wife
+	+ 30-35 day break
+	+ [todo] check declining 2e
+- 3a, Lily contacts.
+	+ [todo] (done?) account for whether end-split w/ WC has happened
+- 3b, Felicity is stuck. Wants to leave WC but fears repercussions
+- 3c, kill a pirate who will hunt Felicity if she leaves
+- 3d, Take Felicity to Humanika to make a new start
+- 4a,b, (Lily contacts) WC courting a new girl
+- 4c, be transport for her hen party, look for opportunity
+- 4d, flyby of charity fundraiser by Maurissa with her and WC
+	+ Gael is shallow; want's WC's wealth, vows to get Maurissa "the other wife" cut out
+- OR 4e, party venue next to WC's meeting on Burthen
+	+ Gale thinks Watersoft is collapsing; dumps WC
+
+- help them to find out who each other are, and to plot for their safety, happiness, emancipation
+	+ and optionally WCW's downfall
+
 
 # notes and TODO:
 
@@ -167,10 +198,11 @@ check in with Franz after suspension ScS Suck-up
 	+ Failure is delayed: if he dies but you land on crossroads before any other planet, you complete 2b anyway
 	+ also can land on 2b with escort lagging behind
 - [todo] test downey's office w/o completing Package Delivery; also logs on Downey in both cases
-- MESSAGE FROM bARMY eDWARD ... HOT NEW TECHNOLOGY
 - ScS Quarg Query: should come after First Contact if not yet met Quarg.
 	+ But it doesn't. Maybe it's okay this way
 - if Militia (Rogue) government as +0.1 toward FW,
 	+ Makes sense that they respond favourably to you helping the FW
 	+ But also means you could help FW enough before that mission, and they won't attack you... but will attack your escorts
-- ScS Tarazed 3: will the Wolf Packs go straight for your ships if other hostiles in the area? I think so...
+- ScS Tarazed 3: Wolf Packs will fight republic ships if there are, rather than aiming for your convoy.
+- Wife side-plot: better to space out (& start) with random chance or measured gap?
+- Potential bug in Wifery 4: if you select maurissa only, then reload, then select lily only and finish, you now have no options!

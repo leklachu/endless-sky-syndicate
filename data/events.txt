@@ -18,7 +18,7 @@ event "start of hostilities (ScS)"
 mission "event: Kornephoros (non-FW)"
 	landing
 	source
-		government "Republic" "Syndicate" "Free Worlds" "Independent"
+		government "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral" "Quarg"
 		attributes "spaceport"
 	to offer
 		has "event: recapture of Kornephoros"
@@ -35,7 +35,7 @@ mission "oathkeepers founded (non-FW)"
 		has "event: oathkeepers founded"
 		not "Liberate Kornephoros: done" 
 	source
-		government "Free Worlds" "Republic" "Syndicate" "Independent"
+		government "Free Worlds" "Republic" "Syndicate" "Independent" "Neutral" "Quarg"
 	on offer
 		log "Factions" "Oathkeepers" `The "Oathkeepers" are a regiment of Navy officers who were captured by the Free Worlds and paroled on the condition that they take no further part in fighting against the Free Worlds. They are led by William Danforth, a famous Navy admiral. Their stated mission is to protect the Paradise Worlds from the pirates who live on the anarchist worlds in the far north of human space.`
 		log "People" "William Danforth" `Danforth is a famous Navy Admiral who is a folk hero throughout human space due to his fair and honorable behavior and his willingness to use his fleet to assist people in need, even when he has to go against Parliament's orders to do so. He is currently in charge of the Navy regiment who call themselves the "Oathkeepers."`

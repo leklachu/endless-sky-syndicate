@@ -9,6 +9,7 @@ Pull yourself up by your bootstraps.
 - 2 sewage transport  - at leas this time get some money on an outfitter planet
 - 3a disable fleeing manager's ship
 - 3b OR refuse and be chased out of the system - "I already signed you up for it, people are going to be angry"
+	+ [todo] bug: can be offered after completing 3a. fixed immediate issue but not tested or thoroughly checked
 - 4 pick up strike breakers from (far planet) and bring to
 - 4a (low passenger space) escort strike breakers from (far planet)
 - 4b and escort to

@@ -10,16 +10,22 @@ Benjamin Downey (Syndicate 'Greater Manager'), office on Shangri-La (check)
 
 Uncle William C. Watermann: CEO of Watersoft
 
-Watersoft: Main HQ on Reunion/Caph; CEO office on Crossroads/Ruchbah
+- Watersoft: Main HQ on Reunion/Caph
+- CEO office on Crossroads/Ruchbah
 
 WC's Wives
 
 - Amanda, 'main' wife on Crossroads
 - Elaina on Moonshake. Goes to Foundry with WC
-- Maurissa on Foundry. (optional) goes on holiday
-- Lily, Amanda's maid on Crossroads
+	+ assumed to return later
+- Maurissa on Foundry. goes on holiday
+- (Lily, Amanda's maid on Crossroads)
+- Jennifer on Hippocrates/Alnair
+- Susanna on Tinker/Diphda
+- Felicity on Bluestone/Bellatrix - stuck situation
+- Gael on Maker/DeltaCapricorni, engaged - help break up
 
-Franz Francis Jr: (a?) Syndicate CEO on Hephaestus
+Franz Francis Jr: a Syndicate CEO on Hephaestus
 
 Professor Egelbert Lenforth of the Syndicate Senior Executive Committee
 

@@ -114,6 +114,7 @@ mission "ScS Get Rich 1b"
 	source Icefall
 	destination Crossroads
 	passengers 6
+	blocked `You'll also need space for 6 passengers, for this next mission.`
 	on fail
 		dialog phrase failure
 	to offer
@@ -391,19 +392,20 @@ mission "ScS Espionage 1"
 	on complete
 		payment 20000
 		"salary: Syndicate" = 8000
+		set "ScS syndicate trusted"
 		event "ScS break 1 over" 20
 		conversation
 			`In the Syndicate headquarters, a man in a very expensive suit and tie hands you some credit chips, and takes the package you brought. You also hand him a card containing your scan logs.`
 			`	He flicks through the papers and pauses, "I hope you didn't have any trouble."`
 			`	You look dubiously at the meagre <payment> he's given you, but he speaks fist.`
-			`	"These are just what we wanted, good job. You're a valuable captain to have on board, and I'll recommend a salary increase." And with that brief meeting he bids you farewell. You're surprised he didn't give you another job, but they're paying your salary, so you guess they'll contact you when they need something. You could probably find useful things to do round Syndicate space for now if you like.`
+			`	"These are just what we wanted, good job. You're a valuable captain to have on board, and I'll recommend a salary increase. Some of my colleagues may also start offering you more sensitive jobs on the jobs board." And with that brief meeting he bids you farewell. You're surprised he didn't give you another job immediately, but they're paying your salary, so you guess they'll contact you when they need something. You could probably find useful things to do round Syndicate space for now if you like.`
 
 event "ScS break 1 over"
 
 mission "ScS Made you Look"
 	landing
 	source
-		government "Republic" "Syndicate" "Free Worlds" "Independent"
+		government "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral" "Quarg"
 	to offer
 		has "made you look"
 	on offer
@@ -1748,6 +1750,7 @@ mission "ScS Last Straw 1"
 			`	"	Franz Francis Jr."`
 			action
 				clear "salary: Syndicate"
+				clear "ScS syndicate trusted"
 				set "ScS rescue complete"
 				event "ScS help help" 30
 			`	So your uncle wasn't bluffing at all. You're on your own now. Maybe you should spend some time outside of Syndicate space.`

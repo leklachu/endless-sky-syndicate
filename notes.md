@@ -34,9 +34,7 @@
 - looks like require luxury accomm on ScS Get Rich, allows exploit of have luxury accom in your cargo!
 - Also doesn't allow installed into a different ship - but doest allow in cargo of different ship.
 - Also LA can be installed in flagship, but passenger space in an escort!
-- Catch a Fly 4,3 in that order so hopefully 3 triggers first and allows 4 to trigger, but block 4 if 3 blocked by no passenger space.
-	+ but it won't work. Pretty sure conditions checked before entering spaceport
-	+ instead start 4 after 3
+- event: Poisonwood independence/reverts are both FW specific
 
 - News on earth after syndicate links severed: rumours of syndicate fleets fighting each other
 

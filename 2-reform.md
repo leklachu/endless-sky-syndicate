@@ -2,11 +2,9 @@
 
 (and bring peace to the galaxy)
 
-one of WCW's wives reaches out to you
+Maurissa reaches out to you
 
-- (give the wife a name of course! she's not defined by bing WCWW)
 - (different depending on whether you helped them before)
-	+ could be the one you relocated
 - A young family (Joe and ?? from Thule) need hospital treatment for their baby but can't afford time off, can you help?
 - Joe et al put you in touch with a band of young men who meant to save up to marry their girlfriends, but are now stuck in bad contracts
 - A company sends revenge after you: Do you
@@ -49,7 +47,7 @@ OR Decide to bust the union
 
 (Take a break here?)
 
-events: most of fw occupying north -> dreadnoughts for sale (but not events: dreadnoughts for sale... or yes but need FW licence)
+events: most of fw occupying north -> dreadnoughts for sale
 
 ARA reaches out to you again: a group on ?? (synd space) wants your help
 
