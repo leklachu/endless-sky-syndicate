@@ -291,6 +291,7 @@ mission "Sc Bootstrap 3a"
 			`	You turn your prisoner over for a pretty large sum of credits, and shuffle back to your ship. You're not sure how to think about this one, anyway you're made for bigger things than individal rogue managers. You say as much to your co-pilot, who promises to look for something a bit more significant for you to do on the world stage. You'll find him in the spaceport later.`
 	on accept
 		fail "Sc Bootstrap 3b"
+		set "Sc Bootstrap 3b: offered"
 
 	npc board
 		government "Independent (Killable)"
@@ -322,6 +323,7 @@ mission "Sc Bootstrap 3b"
 	source Tinker
 	to offer
 		has "Sc Bootstrap 2: done"
+		not "Sc Bootstrap 3a: done"
 	to fail
 		has "Sc Bootstrap 3a: active"
 
