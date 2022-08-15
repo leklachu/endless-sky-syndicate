@@ -60,6 +60,7 @@ Fight the Korath, Fight yourself. ScS Fight Club
 - 1a,b: join attack against Korath raider
 	+ leave disabled (make sure no jump drive 4 u!)
 	+ (1 Fail: no credits if you destroy the raider)
+	+ [todo] rebalance fight: ideally need your help or some/most of the hunters will die
 - 2: stage a fight in syndicate space to keep workers focused
 	+ Seeing the War is good for motivation!
 	+ not refuseable
@@ -180,12 +181,16 @@ Side-arc to help the wives. ScS Wifery 2..
 
 # notes and TODO:
 
+- Get rich 0: "crossroads is in" in brackets?
 - Get Rich 1: join meeting in spaceport? or straight on landing?
 	+ generally early missions have spaceport and later are direct on landing
 - Catch a Fly 1: autosave before join?
+- Records - "why don't you just call them" - "I'm sure they're safe" -> "Of course they're safe" ?
 - Catch a Fly 2: bit awkward not to have a dialog on each landing
 - Catch a Fly 4: risk of a dialog accept if player hits 'd' reflexively
 	+ this is general issue with game. Maybe need list of rejected missions to re-accept before take-off?
+- Uncle to 2nd wife- dialog with accept/reject is awkward
+	+ could do dialog on-complete + automatic on-land-accept-mission
 - not a great transition to working direct for Syndicate. Would seem obvious to go back to WCW for more work, if no text otherwise
 - looks like recapture of korne will almost always come first before break 20day min, even on pretty fast route
 - double-spaced messages: quotes or not quotes?
@@ -206,3 +211,9 @@ Side-arc to help the wives. ScS Wifery 2..
 - ScS Tarazed 3: Wolf Packs will fight republic ships if there are, rather than aiming for your convoy.
 - Wife side-plot: better to space out (& start) with random chance or measured gap?
 - Potential bug in Wifery 4: if you select maurissa only, then reload, then select lily only and finish, you now have no options!
+- Syndicated Espionage: go to lovelace.... need clearance
+- wifery "And who can blame them." -> "And who can blame them!"
+- wealth of lesser humanity." Suddenly -> humanity." ...Suddenly
+- "the Engulfer of Youth will no longer trouble Felictiy or anyone else" -> "no longer trouble Felicity, nor anyone else"
+- "take a deep breath, and remind yourself" -> "take a deep breath, reminding yourself"
+- Felicity in awe "crossed what seems like the whole galaxy" -> "crossed the length of the galaxy"?

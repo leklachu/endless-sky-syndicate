@@ -1164,6 +1164,8 @@ mission "ScS Abduction 2a"
 			label connoire
 			`You find your way to Benjamin Downey's office, where you once went to recieve an extremely generous payment for dropping a package on Clink in the South. Past the security guards and up the lifts, you reach the imposing door and knock.`
 			label talk
+			action
+				set "met benjamin downey"
 			`	Mr Downey invites you in and offers the now-ex-Navy consultant a seat. Turning to you he says, "Captain <last>, your payment of <payment> is on its way to your account. Your work is done here but I commend you for your efforts. The Syndicate thanks you and continues to welcome your involvement."`
 			`	With that you leave, and check your accounts and your communicator as you head back to the main concourse.`
 

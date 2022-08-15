@@ -24,6 +24,7 @@ on landing, (or next day? two-three days?) you find FW-Republic truce, and Syndi
 
 ... extremist chase/capture/destroy missions
 
+- Downey (obvs), Franz and fellows? Are they extremists or just stupids?
 - and helping anti-extremist syndicates
 - making sure police-actioned economist in right place right time
 - leading to evidence, blame, pressure -> Korban. indirectly confront/incriminate him as pressure to resign and upheave syndicate leadership
@@ -42,3 +43,7 @@ on landing, (or next day? two-three days?) you find FW-Republic truce, and Syndi
 	+ they don't take the bait?
 	+ They disable your overrides/trackers?
 	+ Your trackers work? <-
+
+# Notes
+
+ScS syndicate trusted - remember to clear and/or have some jobs stop at certain point

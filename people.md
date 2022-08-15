@@ -30,3 +30,13 @@ Franz Francis Jr: a Syndicate CEO on Hephaestus
 Professor Egelbert Lenforth of the Syndicate Senior Executive Committee
 
 Wilkins, pilot of the Korath-catching group ScS Fight Club 1
+
+Arnold Reginald Armstrong: Armchair Rights Activist on Farseer/Kursa
+
+Dave, hurt by the union on Delve, now on Lodestone?
+
+Mary-Jane, Amazon leader
+
+Sophie, brave to offer to fly sacrificial escape ship
+
+Peterson: extremist defector wants to find simple life

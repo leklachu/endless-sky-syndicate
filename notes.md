@@ -53,12 +53,15 @@ Syndicate CEO
 - "raid on Nimbus interruped plans to hunt down perpetrators"
 - according to FW Syndicate Diplomacy, Syndicate HQ on Hephaestus
 
-- Do you get Syndicate salary? If so does it stop later?
-	+ surely get salary at start of joining Syndicate
-- Do you lose Syndicate colours later?
-	+ I don't think so
-	+ in which case probably keep salary... might increase too at points:
+extras:
 
-Ending has not yet been written:
+- check what triggers cannibal mission allowed after intro. Seems to be allowed before checking back in with Downey (Which is okay, if other blocking is still working)
 
-- end part I: requires "event: ScS help help" to trigger 'not yet written' message.
+come back after break missions
+
+- are currently `minor`. Better to trigger on-landing?
+
+governments
+
+- can you get in trouble killing too many Independent (Killable)s - that new ones will start hostile?
+- Is there a downside to proliferating minor governments for mission purposes?

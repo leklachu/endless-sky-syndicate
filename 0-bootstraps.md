@@ -40,7 +40,14 @@ Intro awkward for newbies
 
 Money: still lots of loan left at the end... maybe better to up the repayment to 10M?
 
+- Have upgrade from 8M to 10M
+	+ quick test with no-cheating left with 4M loans after 8M payment
+	+ And ship+outfits would sell for 1.919M
 - maybe still fine to pay off, with that big ship
 - but big ship takes 5k/day salaries
 - and could be frustrating, even if fair-ish compared to main
 - then again, mostly not 1st time players playing this module
+
+Newbie hints
+
+- need more hint on get-strike-breakers mission, about 'find you way in tricky hyperlinks' and do quickly bc deadline
