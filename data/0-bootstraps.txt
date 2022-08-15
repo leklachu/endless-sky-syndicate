@@ -38,7 +38,10 @@ conversation "syndicate intro"
 	`	You walk over to the hangar to see your new ship. Finally, you'll be free from this world, free from the rules of 'superiors', free from the dregs of society, free to roam the stars of the endless sky.`
 	action
 		give ship "Star Queen (Discount)" "Whitewashed Princess"
+<<<<<<< HEAD
 #		give ship "Nova Princess" "Empress Ignited"
+=======
+>>>>>>> master
 
 	`	When you get on board your beautiful ship, the Whitewashed Princess, you are met by a man a bit too well dressed for your comfort, and for a moment you wonder if there's been a terrible mistake and your company thinks it owns your new ship. He greets you in a perfectly expressionless voice, from a perfectly expressionless face.`
 	`	"Welcome aboard the Whitewashed Princess, Captian <last>. I am your co-pilot, and as your second-in-command I can also offer you some advice as you you start your new flying career."`
@@ -296,11 +299,9 @@ mission "Sc Bootstrap 3a"
 	npc board
 		government "Independent (Killable)"
 		personality disables staying heroic target
-		system Diphda
 			confusion 120
+		system Diphda
 		ship "Flivver (Runaway)" "Fugitive"
-			outfits
-				"not much"
 		conversation
 			`You board the getaway ship, and find the missing manager. Realising the game's up he turns himself in without a struggle and settles down in one of your bunks.`
 			choice
@@ -605,7 +606,7 @@ mission "Sc Package Delivery 5"
 		log `Flew around the galaxy doing stupid jobs in my exclusive, private ship. At least, at the end, the last, maddening job paid off most of my loans. Finally I'm free to roam the galaxy as a real Space Captain. Perhaps the Syndicate will come asking for me in the future for more important jobs.`
 		log "People" "Benjamin Downey" `A high-level manager in the Syndicate, in a high-level office on Shangri-La. He paid you for delivery of the researchers' 'package' on Clink.`
 		set "met benjamin downey"
-		payment 8000000
+		payment 10000000
 		conversation
 			`On <planet> you meet up with the manager who's authorised to pay you for your galaxy-spanning delivery. Through many corridors, up many lifts, past security more than once, and finally you reach a doorway labelled, "Benjamin Downey, Greater Manager". You hope he won't just turn you away.`
 			choice

@@ -147,80 +147,30 @@ ship "Fury" "Fury (rubbish)"
 		"KP-6 Photovoltaic Panel"
 		"LP036a Battery Pack"
 
-ship "Extended Gull"
-	sprite "ship/gull"
-	thumbnail "thumbnail/gull"
-	attributes
-		category "Light Freighter"
-		cost 950
-		"shields" 13000
-		"hull" 5000
-		"required crew" 3
-		"bunks" 20
-		"mass" 270
-		"drag" 10.1
-		"heat dissipation" 1
-		"fuel capacity" 600
-		"ramscoop" 3
-		"cargo space" 175
-		"outfit space" 591
-		"weapon capacity" 200
-		"engine capacity" 164
-		"shield generation" 4.8
-		"shield energy" 1.1
-		"hull repair rate" 2.1
-		"hull energy" 0.5
-		"cloak" .02
-		"cloaking energy" 5
-		"cloaking fuel" .1
-		"outfit scan power" 12
-		"outfit scan speed" 1
-		"tactical scan power" 86
-		weapon
-			"blast radius" 80
-			"shield damage" 800
-			"hull damage" 400
-			"hit force" 1200
+ship "Modified Argosy" "Modified Argosy (fuelled)"
+	add attributes
+		"fuel capacity" 1000
+
+ship "Sparrow" "Sparrow (fuelled)"
+	add attributes
+		"fuel capacity" 1000
+
+ship "Gull" "Gull (Analogue)"
 	outfits
-
-		"Scram Drive"
-		"Quantum Keystone"
-		"Antimatter Core"
-		"Crystal Capacitor"
-		"Fuel Processor" 4
-		"Ka'het Support Cooling"
-		"Luxury Accommodations"
-
-		Flamethrower 7
-		"Quarg Skylance"
-		"Tier 3 Anti-Missile"
-		"Pug Peacekeeping Staff" 2
-
 		"Bellows-Class Afterburner"
-		"Ionic Afterburner"
-		"Volcano Afterburner"
-		"Smelter-Class Steering"
-		"Smelter-Class Thruster"
-
-	engine -12 70 0.7
-	engine 12 70 0.7
-	engine 0 78 1
-	gun 0 -96 Flamethrower
-	gun -7 -94 Flamethrower
-	gun 7 -94 Flamethrower
-	gun -10 -90 Flamethrower
-	gun 10 -90 Flamethrower
-	gun -13 -92 Flamethrower
-	gun 13 -92 Flamethrower
-	turret 0 28 "Tier 3 Anti-Missile"
-	turret 0 8 "Quarg Skylance"
-	leak "remnant leak" 30 7
-	leak "remnant leak sparkle" 30 7
-	explode "tiny explosion" 40
-	explode "small explosion" 20
-	explode "medium explosion" 10
-	"final explode" "final explosion small" 1
-	description "While the Starling was the first successful ship to use technology derived from alien ruins, the Gull is the most recent. The Extended Gull takes this to a new level, progressing part way from analogue to something not quite digital."
-	description "	Incorporating technology from the Pug and the Quarg, this e-Gull is beyond golden."
-
+		"Crystal Capacitor"
+		Flamethrower 2
+		"Forge-Class Thruster"
+		"Fuel Processor" 2
+		"Heavy Ion Cyclotron"
+		"Jump Drive"
+		"Ka'het Primary Cooling"
+		"Plasma Core"
+		"Point Defense Turret"
+		"Quantum Key Stone"
+		"Steering (Planetary Class)"
+		"Tuning Rifle" 3
+	gun "Heavy Ion Cyclotron"
+	gun Flamethrower
+	gun Flamethrower
 

@@ -5,3 +5,10 @@ mission "Someone else helped Joe"
 		has "Syndicate Start"
 	on offer
 		set "Smuggler's Den, Part 1: offered"
+
+mission "Reform is Written"
+	landing
+	invisible
+	on offer
+		set "ScS reform is written"
+		fail "The End has Not Yet Been Written 1"
