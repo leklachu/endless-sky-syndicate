@@ -54,7 +54,7 @@ ship "Quicksilver" "Quicksilver (no particle cannon)"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
 
-ship "Korath Raider" "Korath Raider (no pilfering)"
+ship "Palavret" "Korath Raider (no pilfering)"
 	add attributes
 		"self destruct" 1
 		"hull" 2000
@@ -154,6 +154,26 @@ ship "Modified Argosy" "Modified Argosy (fuelled)"
 ship "Sparrow" "Sparrow (fuelled)"
 	add attributes
 		"fuel capacity" 1000
+
+ship "Bounder" "Bounder (alpha)"
+	add attributes
+		"outfit space" 100
+		"bunks" -7
+		"cargo space" -20
+		"weapon capacity" 30
+	outfits
+		`"Biroo" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		"Blaze-Pike Turret (modified)" 2
+		"Ionic Afterburner"
+		"Jump Drive"
+		"Korath Warder"
+		"Plasma Core"
+		"Small Heat Shunt" 2
+		"Systems Core (Small)"
+	turret 0 -5 "Korath Warder"
+	turret -37 4 "Blaze-Pike Turret (modified)"
+	turret 37 4 "Blaze-Pike Turret (modified)"
 
 ship "Gull" "Gull (Analogue)"
 	outfits

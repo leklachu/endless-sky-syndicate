@@ -12,3 +12,24 @@ mission "Reform is Written"
 	on offer
 		set "ScS reform is written"
 		fail "The End has Not Yet Been Written 1"
+
+mission "Alpha is Written"
+	landing
+	invisible
+	on offer
+		set "ScS alphas is written"
+
+mission "Alpha is Written 2"
+	landing
+	name "Not the End"
+	description "The ... next bit has been written. Go back to <destination> where you've just helped Sawyer escape."
+	source
+		not planet Furnace
+	destination Furnace
+	to offer
+		has "The End has Not Yet Been Written 2: active"
+	on offer
+		fail "The End has Not Yet Been Written 2"
+		conversation
+			`You wake up with a strange headache. You've not been drinking, you've not been playing mash-the-controls-with-your-head, but something's changed. Gradually you come to your senses and remember: you just helped that Syndicate scientist, Sawyer, escape! But then- Anyway, it's time you got back there, to Furnace, to pick up where you left off.`
+				accept

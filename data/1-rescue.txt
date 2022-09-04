@@ -933,7 +933,8 @@ mission "ScS Fight Club 1a"
 event "ScS korath fight ready"
 	system "Sheratan"
 		remove fleet "Large Core Pirates"
-		remove fleet "Korath Raid"
+#		remove fleet "Korath Raid"
+		remove fleet "Korath Large Raid"
 
 event "ScS korath fight end"
 	system "Sheratan"
@@ -941,7 +942,8 @@ event "ScS korath fight end"
 #		fleet "Large Core Merchants" 1800
 #		fleet "Small Core Pirates" 3000
 		add fleet "Large Core Pirates" 5000
-		add fleet "Korath Raid" 30000
+#		add fleet "Korath Raid" 30000
+		add fleet "Korath Large Raid" 40000
 
 mission "ScS Fight Club 1b"
 	priority
@@ -1410,6 +1412,7 @@ mission "ScS Marketing 4"
 		event "catalytic ramscoop available"
 		event "flamethrower available"
 		set "FW Diplomacy 1: offered"
+		set "FW Wolf Pack 1: offered"
 		conversation
 			`On <planet> you first take a tour of some of the factories, so you can sing the praises of your own to the Deep's movers and shakers. However instead of seeing a shambles of ill-discipline and inefficiency, as you expected, you notice that workers look healthier and happier than back in factories on your own world. Indeed, right at the lowest rungs of business, many workers seem content. And though many are happy to vent to you their frustration with the day-in, day-out hard work - as with many a lazy employee back home - they still seem heartier and gladder to work here. When you get some free time, you take a moment to listen to the managers about how they run the place; perhaps you can learn something yourself.`
 			`	Still, you put on a good show for the high-ups, explaining that Syndicate factories are more value for money because most workers are coming out of bad situations and happy to work for less... and suddenly you feel you may have explained things the wrong way. Luckily the Syndicate pre-prepared videos and brochures carry the message, and you head to your ship to continue the tour to the South.`
