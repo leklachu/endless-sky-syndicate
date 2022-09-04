@@ -6,7 +6,9 @@ Co-Pilot
 
 Sawyer
 
-Benjamin Downey (Syndicate 'Greater Manager'), office on Shangri-La (check)
+Benjamin (Alexander Andrew) Downey (Syndicate 'Greater Manager'), office on Shangri-La
+
+- His ship: a Vanguard, the Feathers McGraw
 
 Uncle William C. Watermann: CEO of Watersoft
 
@@ -40,3 +42,11 @@ Mary-Jane, Amazon leader
 Sophie, brave to offer to fly sacrificial escape ship
 
 Peterson: extremist defector wants to find simple life
+
+Alpha captives: Nicole (Nikki) Taylor, Victoria (Vicky), Asmita, Christina, Emily,
+
+Nikki & Vicky's grandma, Mrs Haythorne. (mum Clara)
+
+Rescued/killed: Melissa and Penelope Turner, Hanna Vandeberg,
+
+The Four Amazons: Halga, Frieda, Jana (with bow) and Enja

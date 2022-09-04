@@ -87,3 +87,11 @@ Epilogue:
 - visit WCW wives
 - visit ARA
 - visit WCW?
+
+# notes
+
+if alpha romeo jumps from pug-space on-screen, how far will game engine let you follow? Can you end up on Buccaneer bay? If so, or if you go without pursuing story, should you complete anyway?  
+
+[todo] make sure to fix reputation with FW (iz not in equivalent fw event)
+
+[todo] events from fw: everything post `syndicate occupies sol`

@@ -28,6 +28,7 @@
 - also some incongruity in dialogue if passenger space only on escorts not flagship
 - Offering a mission based on condition set in conversation doesn't enable until re-entering planet.
 	+ instead need to e.g. test not something, then set in alternative dialogue if not wanting
+- can rewrite all transport-or-escort missions `to spawn` instead of two missions
 
 - ScS rescue section has syndicate new tech; but 'FW reconciliation' ambassadors to bourne mentions syndicate post-check-mutiny have new tech.
 	+ reasonable: developed earlier, finalised and more used later

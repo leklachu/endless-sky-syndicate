@@ -217,3 +217,4 @@ Side-arc to help the wives. ScS Wifery 2..
 - "the Engulfer of Youth will no longer trouble Felictiy or anyone else" -> "no longer trouble Felicity, nor anyone else"
 - "take a deep breath, and remind yourself" -> "take a deep breath, reminding yourself"
 - Felicity in awe "crossed what seems like the whole galaxy" -> "crossed the length of the galaxy"?
+- BIG NOTE! Sheratan has had korath raid fleets adjusted (from Korath Raid to Korath Large Raid) - might need to keep an eye on this to remove-renable correctly!

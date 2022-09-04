@@ -61,3 +61,23 @@ mission "The End has Not Yet Been Written 2"
 				accept
 	to complete
 		has "ScS alphas is written"
+
+mission "The End has Not Yet Been Written 3"
+	landing
+	name "The End?"
+	description "The Ending has not yet been written."
+	source Foundry
+	destination Foundry
+	to offer
+		not "ScS pug is written"
+		has "ScS The Top: done"
+	on offer
+		conversation
+			`Excited, you turn to Arnold. But he replies with caution.`
+			`	"I wouldn't go after it yet," he says.`
+			`	"Why not? We can catch them at last."`
+			`	"I'm sorry, you can't do anything now. You see...." he lowers his voice, "the end has not yet been written."`
+			`	You'd better come back later.`
+				accept
+	to complete
+		has "ScS pug is written"

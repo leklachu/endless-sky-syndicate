@@ -36,6 +36,7 @@ ARA says a union is forming amongst dockworkers on Furnace, will you help them? 
 	+ failed at end of 4
 - ScS Union Shadows, find the connection on Covert
 	+ event: liberation of Poisonwood
+		* [todo] fix Poisonwood event to not be FW-specific
 		* [todo] news thereof?
 
 Time to decide, will you help or will you bust. ScS Weedkiller

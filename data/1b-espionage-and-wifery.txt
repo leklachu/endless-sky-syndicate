@@ -15,6 +15,7 @@ mission "ScS Spy Betelgeuse"
 		has "ScS syndicate trusted"
 		random < 6
 		not "ScS Fly Betelgeuse: active"
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -34,6 +35,7 @@ mission "ScS Fly Betelgeuse"
 		has "ScS syndicate trusted"
 		random < 4
 		not "ScS Spy Betelgeuse: active"
+		not "event: syndicate occupies sol"
 	on waypoint
 		dialog `You fly around <waypoints> and collect scans in your ship for the Syndicate.`
 	on complete
@@ -53,6 +55,7 @@ mission "ScS Spy Lionheart"
 		has "ScS syndicate trusted"
 		random < 6
 		not "ScS Fly Lionheart: active"
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -72,6 +75,7 @@ mission "ScS Fly Lionheart"
 		has "ScS syndicate trusted"
 		random < 4
 		not "ScS Spy Lionheart: active"
+		not "event: syndicate occupies sol"
 	on waypoint
 		dialog `You fly around <waypoints> and collect scans in your ship for the Syndicate.`
 	on complete
@@ -91,6 +95,7 @@ mission "ScS Spy Tarazed"
 		has "ScS syndicate trusted"
 		random < 6
 		not "ScS Fly Tarazed: active"
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -110,6 +115,7 @@ mission "ScS Fly Tarazed"
 		has "ScS syndicate trusted"
 		random < 4
 		not "ScS Spy Tarazed: active"
+		not "event: syndicate occupies sol"
 	on waypoint
 		dialog `You fly around <waypoints> and collect scans in your ship for the Syndicate.`
 	on complete
@@ -129,6 +135,7 @@ mission "ScS Spy Southbound"
 		has "ScS syndicate trusted"
 		random < 6
 		not "ScS Fly Southbound: active"
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -148,6 +155,7 @@ mission "ScS Fly Southbound"
 		has "ScS syndicate trusted"
 		random < 4
 		not "ScS Spy Southbound: active"
+		not "event: syndicate occupies sol"
 	on waypoint
 		dialog `You fly around <waypoints> and collect scans in your ship for the Syndicate.`
 	on complete
@@ -167,6 +175,7 @@ mission "ScS Spy Megaparsec"
 		has "ScS syndicate trusted"
 		random < 6
 		not "ScS Fly Megaparsec: active"
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -186,6 +195,7 @@ mission "ScS Fly Megaparsec"
 		has "ScS syndicate trusted"
 		random < 4
 		not "ScS Spy Megaparsec: active"
+		not "event: syndicate occupies sol"
 	on waypoint
 		dialog `You fly around <waypoints> and collect scans in your ship for the Syndicate.`
 	on complete
@@ -208,6 +218,7 @@ mission "ScS Spy DeepSky"
 	to offer
 		has "ScS syndicate trusted"
 		random < 6
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -226,6 +237,7 @@ mission "ScS Spy Kraz"
 	to offer
 		has "ScS syndicate trusted"
 		random < 6
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -245,6 +257,7 @@ mission "ScS Spy Lovelace"
 	to offer
 		has "ScS syndicate trusted"
 		random < 6
+		not "event: syndicate occupies sol"
 	on stopover
 		dialog `A particularly boring-looking employee walks over and hands you a stack of promotional brochures and user manuals. The information must be hidden in these.`
 	on complete
@@ -272,6 +285,7 @@ mission "ScS Alpha Back"
 	to offer
 		has "ScS syndicate trusted"
 		random < 12
+		not "event: syndicate occupies sol"
 	on offer
 		dialog `The passenger is hooded and cloaked so you can't see any of his features. He settles himself into his cabin without saying anything.`
 	on complete
@@ -290,6 +304,7 @@ mission "ScS Alpha Forth"
 	to offer
 		has "ScS syndicate trusted"
 		random < 17
+		not "event: syndicate occupies sol"
 	on offer
 		dialog `The passenger is hooded and cloaked so you can't see any of his features. He settles himself into his cabin without saying anything.`
 	on complete

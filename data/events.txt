@@ -55,3 +55,15 @@ mission "event: fw northern expansion (ScS)"
 		log `The war grows more bloody, with the Free Worlds claiming several worlds to the north of their original territory.`
 		conversation
 			`When you land on <origin>, the latest news from the war is filling the headlines. It seems the Free Worlds have occupied more systems to the North of their original territory. Whether the defecting worlds invited this or the Free Worlds annexed them against their will, seems to be a matter of some dispute.`
+
+# syndicate are normally neutral to alphas.... not sure how much this is intentional, and how much because nobody's needed to consider it. For now, hostility is set and unset: but this is risky: if main-game changes this later, thi s will override!
+
+event "ScS syndicate against alphas"
+	government Syndicate
+		"attitude toward"
+			"Alpha" -.01
+
+event "ScS syndicate neutral to alphas"
+	government Syndicate
+		"attitude toward"
+			"Alpha" 0
