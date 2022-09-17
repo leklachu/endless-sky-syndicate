@@ -1243,7 +1243,7 @@ mission "ScS Alpha Hunt 3"
 			`	You and the lieutenant are led to a more comfortable room, and inside are a group of young women! You count eleven. "Are these...?"`
 			`	"Sir, we found these ladies trapped in an access tunnel. They can explain more."`
 			`	These are indeed eleven of the fifteen women taken by the Alphas. They tell you, some in measured voices, some in excited babbles, some in tears, the whole story from their abduction on Bluestone, through the split with the larger group, and the many adventures of the journey, until today they landed here. Their captors panicked, and rushed them all out through a service tunnel, but the women gave them so much trouble the Alphas became desperate and nearly got found out. When they made their final dash for - what must be the new shuttle - some of the women sat down and had to be dragged, so the Alphas grabbed four of them and shut a grate on the others trapping them inside, until the officer found them now.`
-			`	It takes some time to debrief the flustered women, and when it's done, the lieutenant turns to you and suggests you'd better get in touch with "our mutual friend-of-the-chair." Included in the group is Nikky, but not her sister Vicky. Would you like to talk with her first?`
+			`	It takes some time to debrief the flustered women, and when it's done, the lieutenant turns to you and suggests you'd better get in touch with "our mutual friend-of-the-chair." Included in the group is Nikki, but not her sister Vicky. Would you like to talk with her first?`
 			choice
 				`	(talk with Nikki)`
 				`	(go straight to call Arnold)`
