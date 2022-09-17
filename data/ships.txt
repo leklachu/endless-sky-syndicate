@@ -175,6 +175,34 @@ ship "Bounder" "Bounder (alpha)"
 	turret -37 4 "Blaze-Pike Turret (modified)"
 	turret 37 4 "Blaze-Pike Turret (modified)"
 
+ship "Bounder" "Bounder (fleeing alpha)"
+	"never disabled"
+	add attributes
+		"outfit space" 100
+		"bunks" -7
+		"cargo space" -20
+		"weapon capacity" 30
+		"hull" 10000
+		"shields" 50000
+		"slowing resistance" 100
+		"ion resistance" 100
+#		"mass" 1000
+#		"thrust" 20
+#		"turn" 100
+	outfits
+		`"Biroo" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		"Blaze-Pike Turret (modified)" 2
+		"Ionic Afterburner"
+		"Jump Drive"
+		"Korath Warder"
+		"Plasma Core"
+		"Small Heat Shunt" 2
+		"Systems Core (Small)"
+	turret 0 -5 "Korath Warder"
+	turret -37 4 "Blaze-Pike Turret (modified)"
+	turret 37 4 "Blaze-Pike Turret (modified)"
+
 ship "Gull" "Gull (Analogue)"
 	outfits
 		"Bellows-Class Afterburner"

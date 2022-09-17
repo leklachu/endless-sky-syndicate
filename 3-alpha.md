@@ -135,12 +135,4 @@ More:
 - consider the planet restrictions set up for FW storyline (but present in common events). Maybe alter for Syndicate... or maybe they're just higher security while war's on. AFAIK they just set higher reputation needed to land? Or are particularly paradise planets not letting a FW captain land?
 - ARA "sounds less worried than you expected" even if 90 women were killed on the King Lear... maybe branch that
 - Aborting disable-or-kill missions still fails and treats as kill!
-
-Epilogue:
-
-- returning to ARA: ask if anything can be done to cure his 'neurological condition'
-	+ (maybe need to set 'knows about that' - and know either from that conversation in Reform or as much as can guess from his wheelchair)
-	+ oh, you remember that chick with the bow and arrow?...
-	+ you know she's pretty good with that. yes, saw her hit a man's heel at __paces
-	+ lifts trouser leg to reveal wound on side of right knee
-	+ actually just says 'neuro disease' but really just jolly painful to move about
+- Nimbus blockade: maybe better to drag out conversation with `choice (more)`s a bit, to feel the timing

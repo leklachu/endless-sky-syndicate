@@ -1,14 +1,12 @@
 Log for Sc Bootstrap 0 (person co-pilot; start) and perhaps other missions
+- many more logs
 
-test:
+more epilogue
 
-- no luxury accommodations for ScS Get Rich 2-3
+republic reputation at end
 
 fix:
 
 - lots of on-visit-missing-passengers/escort
+- cf notes on individual files, and in notes.md
 
-check:
-
-- if source but no dest, is dest = source? or dest is anywhere?
-	- bc: some missions I have no dest for dest = source... might need to re-add explicit dest!!

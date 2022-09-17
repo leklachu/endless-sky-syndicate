@@ -67,3 +67,131 @@ event "ScS syndicate neutral to alphas"
 	government Syndicate
 		"attitude toward"
 			"Alpha" 0
+
+event "ScS pug invasion 3"
+	unlink "Delta Capricorni" Markab
+	unlink "Delta Capricorni" Scheat
+	unlink Alderamin Alnair
+	link Deneb "Delta Capricorni"
+	link Deneb Alderamin
+#	unvisit "Delta Capricorni"
+	unvisit Alderamin
+#	unvisit Scheat
+	unvisit Alnair
+	"tribute: Maker" /= 1700
+	"tribute: Furnace" /= 1200
+	system "Delta Capricorni"
+		government Pug
+		fleet "Small Core Merchants" 700
+		fleet "Large Core Merchants" 800
+		fleet "Small Pug" 800
+		fleet "Large Pug" 1100
+	system Alderamin
+		government Pug
+		fleet "Small Core Merchants" 2000
+		fleet "Large Core Merchants" 3200
+		fleet "Small Pug" 1200
+		fleet "Large Pug" 2500
+	planet "Maker"
+		security 0
+		tribute 1
+			threshold 3000
+			fleet "Small Pug" 15
+			fleet "Large Pug" 3
+	planet "Furnace"
+		security 0
+		tribute 1
+			threshold 3000
+			fleet "Small Pug" 15
+			fleet "Large Pug" 3
+
+event "ScS empty algenib"
+	system "Algenib"
+		remove fleet "Large Core Pirates"
+		remove fleet "Syndicate Extremists"
+
+planet "ScS Pug Mini Wormhole"
+
+event "ScS mini wormhole"
+	system Deneb
+		add object "ScS Pug Mini Wormhole"
+			sprite planet/mini-wormhole
+			distance 1500
+			period 1000
+	system "Gamma Cassiopeiae"
+		add object "ScS Pug Mini Wormhole"
+			sprite planet/mini-wormhole
+			distance 1500
+			period 1000
+
+event "ScS mini wormhole collapsed"
+	system Deneb
+		object
+			sprite star/g5
+			period 10
+		object Pugglemug
+			sprite planet/ocean2
+			distance 317.56
+			period 90.5437
+			object
+				sprite planet/dust3
+				distance 159
+				period 16.3701
+		object Pugglequat
+			sprite planet/desert3
+			distance 966.8
+			period 480.977
+			object
+				sprite planet/rhea-b
+				distance 156
+				period 18.6328
+		object
+			sprite planet/dust7
+			distance 1538.84
+			period 965.851
+		object
+			sprite planet/dust0-b
+			distance 1788.4
+			period 1210.08
+	system "Gamma Cassiopeiae"
+		remove object
+		object
+			sprite star/b0
+			period 10
+		object
+			sprite planet/ice7
+			distance 208.99
+			period 14.4443
+		object
+			sprite planet/cloud2
+			distance 465
+			period 47.9391
+		object
+			sprite planet/desert6-b
+			distance 789.64
+			period 106.085
+		object
+			sprite planet/gas3
+			distance 1622.89
+			period 312.568
+			object
+				sprite planet/ganymede
+				distance 303
+				period 12.7598
+			object
+				sprite planet/io-b
+				distance 425
+				period 21.1965
+
+event "ScS civilian resistance"
+	"reputation: Pug" <?= -1
+	government Pug
+		"attitude toward"
+			"Merchant" -.01
+			"Syndicate" -.01
+event "ScS civilian submission"
+	government Pug
+		"attitude toward"
+			"Merchant" .01
+			"Syndicate" .01
+

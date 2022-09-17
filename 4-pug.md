@@ -1,97 +1,65 @@
 # Stuck in the Pug
 
-You pursue the Alphas into soon-to-be-pug-space..... and... ?!?!?!
+You pursue the Alphas. ScS Tracking
 
-- now you're stuck. news from the worlds a la FW options
-- travel round to see what's happened. Suspect Alphas?
-	+ warning: new central system might be alpha controlled!
-	+ Are the Pug the new evolution/GM of the alphas?
+- 1, flying through Fomalhaut. Head to intercept. Follow tracker, starting with Markab.
+	+ event: pug invasion
+	+ event: pug invasion 2
+	+ reputation: Pug >?= 1
+	+ land Maker/DeltaC
+	+ As you land, woomph
+	+ did the Alphas do this?!
+	+ warning, new central system, & strange ships, could be alpha-controlled
+- 2, take off and look around
+	+ event: ScS pug invasion 3
+	+ event: pug invasion 4
+	+ event: fw syndicate welcoming
+	+ reputation: Free Worlds >?= 1
+- ScS Pug Resistance, on other landing: classic fought-the-pug story
+- 3, (after _ Friends 1)
 
-If you travel to deneb
+Find your Union or Company friends on Furnace/Alderamin. ScS Corporate Friends
 
-- usual dialog with pug, tailored for ScS
-- leave in confusion and suspicion
+- 0U, 0C, get call to Furnace
+- 1, Furnace Friends have info, but Alphas jump away as you launch
+- ScS Tracking 3, What to do now?
+	+ optional: go and see if the pug could help
+- 2, 2U, 2C Fight Pug in Alderamin and jump out to
+	+ Union: union friends on Delve/Scheat
+	+ Company: Science centre on Hippocrates/Alnair
+	+ ScS Corporate Friends JD, provides JD in case couldn't pilfer
+- 3U, 3C, follow the tracker. S, S, SE, E... // E,SE,E...
+- ScS Final Hunt
 
-Or go straight to your friends on ??
+OR accept the Pugs' help. ScS Pug Support
 
-- (they're from the union or company)
-- They update you, also saw Alphas shoot down a pug ship, board, leave and blow it up before disappearing
-- guess at direction of travel, ?? within pug region
-- chase the alphas there, watch them jump out
-	+ Is that too risky? Do they need to jump off-stage so you can't go and blow them up with OP weaponary?
-	+ Or just fail mission for blowing them up!
-		* have not-disableable and plenty of ion/etc resistance.
-		* Even a jump drive that works with movement
-		* Not actually same game-engine stats as version captured later
-	+ Or alternate sad ending for blowing them up?
-		* Head later to buccaneer bay on revenge instead of rescue
+- 1, Go to see the Pug
+- 2, Accept their help, and head to Buccaneer Bay
 
-Return to your friends. What to do? They invite you to join in rebellion against the pug, then they'll help you track the alphas
+You chase the alpha ship in hot pursuit, and land on buccaneer bay. Story time. ScS Finale
 
-- Take part in a battle on ??, and steal a jump drive from a disabled pug.
-	+ "actually I have a jump drive already" but you still have to join the battle to get the help
-- land and pick up data to bring to your friends' contacts on ?? in syndicate space
-- contacts analyse data and have observations of their own: you need to head to planet-next-to-mutiny
-	+ or maybe mutiny itself? alphas helped with research
-	+ warning of jump drive fuel consumption: you're heading to an area hard to refuel
-- underworld (or researcher) contacts there have seen alpha ship pass (perhaps refuelling), go to buccaneer bay.
-- (Do you get unique reward from friends? or just alpha ship with tech at the end?)
-	+ and what if killed alphas? No unique reward?
-		* Perhaps that's fine: if you killed alphas you probably have plenty of alien tech
+- all events up to end of main plot
 
-OR your friends want you to join a rebellion against the pug, but you think maybe the pug can help
+Epilogue. ScS Epilogue
 
-- go to pugglemug/squat to talk
-- 'you daft humans and your genetic experiment' etc 'you'd kill yourselves if not helped'
-- can still decide fed up with derogatory pug: GOTO friends
-- Pug help you chase
-	+ or one-off wormhole a la terminus: need a resonance stone (given by pug) to get through
-	+ plus some pug happy-staves
-	+ if you killed alphas, pug see no need to help. GOTO friends for revenge
-- pug point you direct to buccaneer bay
-	+ warning about refuelling? in characteristic pug mocking style
-
-You chase the alpha ship in hot pursuit, and land on buccaneer bay. Story time.
-
-- Track alphas to base
-- If you helped pug, use happy-stick to dispatch guards en route, eventually finding and freeing the remaining prisoners
-	+ flee from alphas searching for you, and find a place to hide out
-	+ "..." (many days?)
-- OR if helped rebellion, use their tech to track which way they went
-	+ (how? Do the girls have a tracker? Are the alphas carrying something that emits a trace)
-	+ But you get captured and locked in a cell with them
-	+ protect them valiantly from abuse & impregnation
-	+ locked together in a deeper cell
-	+ "..." (many days?)
-- OR if you killed the alphas, run in guns blazing.
-	+ kill some.
-	+ Blow up an important comm system
-	+ eventually captured
-	+ maybe tortured for information, but you resist
-	+ "..."
-
-And at last, fighting outside, explosions, voices, peace
-
-- behold, the navy has rescued you
-- meanwhile war has ended, pug have left, Korban is out.
-- if rescued girls instead of blowing up alpha ship, find the hidden alpha ship you followed (hint it's near yours) and get it
-	+ with a jump drive and some sweet tech
-- return to (family location(s)? arranged place to reconcile girls to families?)
-	+ Hooray, you're a hero :-) :-)
-- OR if destroyed alpha ship, return with the sad news
-	+ still they thank you for doing your best, and for taking out the alphas who dared
-
-Epilogue:
-
-- visit women's group
-- visit WCW wives
-- visit ARA
-- visit WCW?
+- Amazons
+- ARA
+- Grandma (Nikki and Vicky's grandma)
+- Amanda [todo]
+- Maurissa [todo]
+- Watermann [todo]
 
 # notes
 
-if alpha romeo jumps from pug-space on-screen, how far will game engine let you follow? Can you end up on Buccaneer bay? If so, or if you go without pursuing story, should you complete anyway?  
-
-[todo] make sure to fix reputation with FW (iz not in equivalent fw event)
-
-[todo] events from fw: everything post `syndicate occupies sol`
+- ScS Corporate Friends 2: would have on-visit "the battle continues overhead; if you have jd can fit and go; else carry on fighting (they may have one left over)"
+	+ but can't start 2 and 2U/C on same 'yes okay then' choice
+- Corporate Friends JD: don't offer JD if already got one?
+- Dialogue if visit Pug before Pug Support 1 would be good, but logic gets complicated
+	+ (ScS Pug Visit 1, if travel to deneb: usual dialog with pug, tailored for ScS; leave in confusion and suspicion)
+- ScS Corporate Friends 2: catching a disabled pug seems pretty hard. have made pre-disabled, but would prefer just to balance better
+- ScS Corporate Friends 1: Rarely, enough missiles and proton guns can prevent the alphas from escaping. Could fix with a scram-jump-drive, or maybe with massively increased mass and thrust/turn
+- ScS Tracking 3 trak-not-work message.
+- make `event "stack core for sale"`?
+- set `free worlds reconciliation`?
+	+ yes: this might be taken to mean: the galaxy-history worked out this way; this+`free worlds plot completed` means you did that particular storyline
+- [todo] paradise worlds remain restricted... raise rep with republic to fix?
