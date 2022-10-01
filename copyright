@@ -1,0 +1,21 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: endless-sky-syndicate
+Upstream-Contact: leklachu please suggest a change here
+Source: https://github.com/leklachu/endless-sky-syndicate
+
+Files: *
+Copyright: leklachu please suggest a change here
+License: CC-BY-SA-4.0
+
+Files: icon.png
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).  Copied from endless-sky images/thumbnail/star?queen*.
+
+
+Files: images/planet/mini-wormhole.png
+Files: *
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+           endless-sky contributors (see credits.txt and changelog)
+License: GPL-3+
+Comment: Derivative created from https://github.com/endless-sky/endless-sky/blob/6486a28697b37c32a8309c4e743fa4ad7d9f0c7c/images/planet/wormhole.png
