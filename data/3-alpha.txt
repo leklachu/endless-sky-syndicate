@@ -16,7 +16,6 @@ mission "ScS Alpha Abduction 1"
 		dialog phrase failure
 	on offer
 		event "ScS syndicate against alphas"
-		fail "The End has Not Yet Been Written 2"
 		conversation
 			`As Sawer speeds off into the distance, you land and wonder if you ought to have followed to escort him safely. It's good you didn't: as you land you see a masive Vanguard land next to you, and out steps none other than Downey himself!	When he recognises your ship, he comes over flanked by half a dozen well-armed guards.`
 			`	"<last>! What are you doing here! I told you to wait in Delta Capricorni!"`

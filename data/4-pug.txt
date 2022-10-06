@@ -12,7 +12,6 @@ mission "ScS Tracking 1"
 	to offer
 		has "ScS The Top: done"
 	on offer
-		fail "The End has Not Yet Been Written 3"
 		event "pug invasion"
 		event "ScS alpha relations"
 		"reputation: Pug" >?= 1

@@ -13,7 +13,6 @@ mission "ScS Call to Aid"
 	destination Foundry
 	to offer
 		has "event: ScS help help"
-		has "ScS reform is written"
 		not "Smuggler's Den, Part 1: active"
 		not "Smuggler's Den, Part 2: active"
 	on fail

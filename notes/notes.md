@@ -1,6 +1,6 @@
 - starting ship automatically depreciates to 25% value; this is correct. Beware this doesn't change with game code changes!
 - can't see any way to make Whitewashed Princess launch with 1 crew in event of decline :-(
-- Bug::interest rates >= 1% or <0.1% format wrong in bank display
+- [Bug] interest rates >= 1% or <0.1% format wrong in bank display
 - TODO easter egg if complete FW story with Sc good-luck start
 - current package-drop probably completes in Jan 2014, at odds with FW 'mid-June'.
 - naming scheme "syndicate x" probably cause conflicts if merged with main
@@ -21,7 +21,6 @@
 - should logs be first or second person? seems most FW logs are carefully crafted to be neither
 - make Co-Pilot person ship, if complete Sc Package 5
 - is there some way to refuel on Mutiny? Awkward to get stuck there with no fuel! Could briefly add a spaceport? but makes fitting with the story harder
-- check later FW-line events; haven't noted all in Sc mission summaries
 - some missions (e.g. Hai-human outfitter) assume you're the hero of humanity if "main plot completed" but others also depend on it to know the war's over.
 - many of the payments (especially early in Rescue) in ScS aren't well thought through or compared to FW and other missions
 - also some incongruity in dialogue if passenger space only on escorts not flagship
@@ -30,29 +29,8 @@
 - can rewrite all transport-or-escort missions `to spawn` instead of two missions
 - Log few months before reach pug: "Finally scraped together enough money for starship"
 
-- ScS rescue section has syndicate new tech; but 'FW reconciliation' ambassadors to bourne mentions syndicate post-check-mutiny have new tech.
-	+ reasonable: developed earlier, finalised and more used later
-- looks like require luxury accomm on ScS Get Rich, allows exploit of have luxury accom in your cargo!
-- Also doesn't allow installed into a different ship - but doest allow in cargo of different ship.
-- Also LA can be installed in flagship, but passenger space in an escort!
-- event: Poisonwood independence/reverts are both FW specific
-
-- News on earth after syndicate links severed: rumours of syndicate fleets fighting each other
-
-- Nuke Testing on Clink canonically mid-June
-- War Begins 04/07
-- start 16/11
-- original test on mutiny
-
-- event: start of hostilities is partly FW-specific
-
-Syndicate CEO
-
-- CEO of entire Syndicate Corporation is Alastair Korban
-- headquarters on Foundry
-- claims to have purged the extremists and be sorry... but doesn't sound so truthful
-- "raid on Nimbus interruped plans to hunt down perpetrators"
-- according to FW Syndicate Diplomacy, Syndicate HQ on Hephaestus
+- [bug] luxury accommodations are tested installed into flagship and/or held in cargo.
+- [todo] event: Poisonwood independence/reverts are both FW specific
 
 extras:
 

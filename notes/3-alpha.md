@@ -84,10 +84,6 @@ The Swap. ScS Alpha Swap
 - 2, Deliver the Romeo to Silver/Vega as bait to the alphas
 	+ -> ship is ready to do the swap, after Downey caught
 
-	- "The bearer of this document to pass w/o let or hindrance on the authority of Alistair Korban" etc
-		* (maybe alphas bribed/intimidated Korban to get him to make/sign this)
-		* can explain an earlier slip-through-net
-
 Soylent Seizure
 
 - following a tip-off about the arrest, join a blockade, then return to Amazon
