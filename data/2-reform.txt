@@ -1352,7 +1352,7 @@ mission "ScS Coventry 1"
 	to offer
 		has "ScS Downs 2: done"
 	on offer
-		log `Benjamin Downey wants a ship of quitters killed because some have sensitive knowledge. Somehow, I'm going to save them`
+		log `Benjamin Downey wants a ship of quitters killed because some have sensitive knowledge. Somehow, I'm going to save them.`
 		event "bloodsea joins free worlds"
 		event "bloodsea spaceport completed" 100
 		event "dreadnoughts for sale"
