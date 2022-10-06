@@ -17,7 +17,7 @@ You need Endless Sky minimum version 0.9.15, which at time of writing is the mos
 
 ## Current status
 
-Approximately complete. There are a few things I want to improve if I get time and motivation (feel free to help the second by telling me how much you loved... or hated but want to love, the plugin). For that and for bug reports you can open an issue or discussion on Github, or dig through the files to find my email address.
+Approximately complete. There are a few things I want to improve sometime (feel free to help speed that up by telling me how much you loved... or hated but want to love, the plugin). For that and for bug reports you can open an issue or discussion on Github, or dig through the files to find my email address.
 
 ## Contribution and Copying
 
