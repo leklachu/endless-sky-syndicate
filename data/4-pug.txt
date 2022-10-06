@@ -296,8 +296,9 @@ mission "ScS Corporate Friends 1"
 			`	An executive looks at your tracker.`
 				goto tracker
 			label union
-			`	The union boss looks at your tracker.`
+			action
 				log `The union I helped on Furnace are helping me find the Alphas, which landed here then fled - and vanished without a hyperspace jump! The union want me to join a resistance against these aliens, the Pug, then their contacts outside this annexed region will help me track down the Alphas.`
+			`	The union boss looks at your tracker.`
 			label tracker
 			`	"Yeah, with the hyperlink network broken, it's no surprise this doesn't work. And the Alphas, they must have stolen some sort of jumping hyperdrive from the alien ship. Looks like you're stuck with us."`
 			`	"I have to follow them!" you protest. "Somehow!"`
