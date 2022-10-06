@@ -459,7 +459,7 @@ mission "Sc Bootstrap 5"
 			`When you go to the spaceport this time, your co-pilot is nowhere to be seen. You browse the shops a while, think on your future, and are about to head back to the <ship> when he comes out from a door marked, "Do not Disturb, Important Meeting in Progress". With him is a man in broad-rimmed glasses and an ill-fitting suit, who looks at the ground as he walks.`
 			`	"This is Sawyer," your co-pilot introduces him, "an important physicist with Syndicate research. He's just been in a very important meeting and needs to get back quickly to <destination>."`
 			choice
-				`	"Sounds like a worthwile job, I'd be delighted."`
+				`	"Sounds like a worthwhile job, I'd be delighted."`
 					goto delighted
 				`	"How much will he pay?"`
 			`	"<payment>, directly from the institution."`

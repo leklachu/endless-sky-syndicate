@@ -798,9 +798,9 @@ conversation "ScS Finale"
 	label command
 	`	Dispatching the few Alphas who'd hoped to hide out here, you take command. You earned it, and no one will dispute that: you take the Alpha's ship for your own. Climbing on board, and leaving the Navy men (at their request) to continue sweeping the base, you lift off through the tin-and-grass ceiling and fly back to the spaceport.`
 	choice
-		`	(take your leave)`
 		`	(stay to talk with Danforth)`
 			goto talk
+		`	(take your leave)`
 	`	You find Danforth, and the women, and your ship, and take your leave of the two but not the third. The excitement has all been quite enough for you, and it's time once again to take to the skies, to the peace and quiet of open space. With many well-wishes, and thank yous, you finally say good-bye.`
 		accept
 	label talk
