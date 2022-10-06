@@ -633,7 +633,7 @@ mission "ScS Wifery 3c"
 		system Moktar
 		personality staying heroic marked target
 		ship "Vanguard" "Engulfer of Youth"
-		dialog `The Engulfer of Youth will no longer trouble Felicity or anyone else.`
+		dialog `The Engulfer of Youth will no longer trouble Felicity, nor anyone else.`
 	
 	on complete
 		conversation
@@ -651,7 +651,7 @@ mission "ScS Wifery 3c"
 			label faraway
 			`	"But how could I get there?" asks Felicity. "Probably the shuttles will blacklist me too, and I'll just get stuck on a worse planet-"`
 			`	"-Perhaps not," interjects Amanda. "You don't know until you try."`
-			`	"-and become a slave," finishes Felicity. At the mention of slave, Aunt Amanda bows her head and looks nearly ready to concede. Perhaps she just doesn't know how to help. You take a deep breath, and remind yourself you can outrun any bounty hunters, and offer:`
+			`	"-and become a slave," finishes Felicity. At the mention of slave, Aunt Amanda bows her head and looks nearly ready to concede. Perhaps she just doesn't know how to help. You take a deep breath, reminding yourself you can outrun any bounty hunters, and offer:`
 			`	"I can take you. I can take you out to the Rim, or the Furthest South. No one will find you there, and you can make a truly fresh start."`
 			`	Both aunts look up. "You would?" says Felicity. "That's very generous of you," says Amanda. You discuss for a while and Amanda agrees to furnish Felicity with a gift of enough money to get her started in a new life. Discussion turns to where to go. You pull out maps and star charts, but at most places you suggest Felicity gets nervous about everything that could go wrong. It seems she's been under WC's dark shadow so long she doesn't know how to step out. Everywhere is either too expensive, to hard to get started, too dangerous, too close to Syndicate space, or involved in the war.`
 			`	Eventually you look over to the small triangle of systems at the far South-East of the known galaxy. "Who lives there?" Felicity asks. "A race of powerful, benevolent aliens," you say. These worlds are home to the Quarg, and according to your map one planet, Humanika, is accessible and hospitable to humans. This, at last, sounds good to Felicity, and you just hope the Quarg are truly as benevolent as they're said to be. On your travels round the galaxy, you've found many people distrust them, but no one actually has any suggestion they do evil to humans.`
@@ -680,7 +680,7 @@ mission "ScS Wifery 3d"
 		payment 20000
 		event "ScS wifery 4 ready" 30
 		conversation
-			`Aunt Felicity has been in awe as she crossed what seems like the whole galaxy. Every planet you landed at she went to explore as long as she could before you had to take off again, and at last on <planet> she's quite apprehensive, but eager to make her new start. Each step further away from <origin> it seems the threat of her old life lifted and her confidence and independence returned. You feel sad that your own uncle could damage someone's life this way, but remind yourself that things are not always as they seem - and at least she has a new start now.`
+			`Aunt Felicity has been in awe as she crossed the length of the galaxy. Every planet you landed at she went to explore as long as she could before you had to take off again, and at last on <planet> she's quite apprehensive, but eager to make her new start. Each step further away from <origin> it seems the threat of her old life lifted and her confidence and independence returned. You feel sad that your own uncle could damage someone's life this way, but remind yourself that things are not always as they seem - and at least she has a new start now.`
 			`	As Felicity skips off your ship, you hope she really can take care of yourself, but she assures you she'll be fine, and hands you <payment> in thanks for your transport. You bid her farewell with one last hug, and return alone to the <ship>.`
 
 event "ScS wifery 4 ready"

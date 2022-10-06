@@ -213,9 +213,4 @@ Side-arc to help the wives. ScS Wifery 2..
 - Wife side-plot: better to space out (& start) with random chance or measured gap?
 - Potential bug in Wifery 4: if you select maurissa only, then reload, then select lily only and finish, you now have no options!
 - Syndicated Espionage: go to lovelace.... need clearance
-- wifery "And who can blame them." -> "And who can blame them!"
-- wealth of lesser humanity." Suddenly -> humanity." ...Suddenly
-- "the Engulfer of Youth will no longer trouble Felictiy or anyone else" -> "no longer trouble Felicity, nor anyone else"
-- "take a deep breath, and remind yourself" -> "take a deep breath, reminding yourself"
-- Felicity in awe "crossed what seems like the whole galaxy" -> "crossed the length of the galaxy"?
 - BIG NOTE! Sheratan has had korath raid fleets adjusted (from Korath Raid to Korath Large Raid) - might need to keep an eye on this to remove-renable correctly!

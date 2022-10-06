@@ -609,7 +609,7 @@ mission "ScS Wifery 1"
 			`	"And you're a terrible space-captain." He hands you a card with Maurissa's details, and a handful of holiday brochures. "Just take her somewhere nice for a few days, at my expense. Or drop her off and let her find her own way home, I don't care."`
 				accept
 			label alphas
-			`	"And who can blame them. If you can't have family the normal way, you make a family your own way. It's no more than what Kings, millenia past on earth would do."`
+			`	"And who can blame them! If you can't have family the normal way, you make a family your own way. It's no more than what Kings, millenia past on earth would do."`
 			`	You stare at him for a moment.`
 			`	"And their children, if they're fit enough to have them, grow up to be the greatest super-soldiers the galaxy has known.`
 			`	"Anyway, enough about Alphas. Go and solve my problem, I'll make it worth your while." He hands you a card with Maurissa's details, and a handful of holiday brochures. "Just take her somewhere nice for a few days, at my expense. Or drop her off and she can find her own way home, either way's as good."`
@@ -1461,7 +1461,7 @@ mission "ScS Tarazed Escort 1"
 			`You receive <payment>, and head up to headquarters. Once again you meet the rich men, up their rich tower, in their rich room, and again they greet you in their peculiar style.`
 			`	"Sales are up!" says one.`
 			`	"The Galaxy has received our message," agrees another.`
-			`	"Captain <last> has brought to us the wealth of lesser humanity." Suddenly you're not sure you want their appreciation any more.`
+			`	"Captain <last> has brought to us the wealth of lesser humanity." ...Suddenly you're not sure you want their appreciation any more.`
 			choice
 				`	"What news have you for me today?"`
 					goto safe

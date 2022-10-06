@@ -2,8 +2,6 @@
 
 Pull yourself up by your bootstraps.
 
-
-
 - 0 Meet co-pilot come advisor
 - 1 ballerina troupe to exec party: most of payment goes on them, you get little
 - 2 sewage transport  - at leas this time get some money on an outfitter planet
