@@ -2,7 +2,6 @@
 - can't see any way to make Whitewashed Princess launch with 1 crew in event of decline :-(
 - Bug::interest rates >= 1% or <0.1% format wrong in bank display
 - TODO easter egg if complete FW story with Sc good-luck start
-- Difficult to make 'event war begins' flexible, so having condition+warning in case player waits too long to complete bootstrap quest and can't bring nuke to clink
 - current package-drop probably completes in Jan 2014, at odds with FW 'mid-June'.
 - naming scheme "syndicate x" probably cause conflicts if merged with main
 - immersion break if piloting single-pilot ship while co-pilot still around
@@ -29,6 +28,7 @@
 - Offering a mission based on condition set in conversation doesn't enable until re-entering planet.
 	+ instead need to e.g. test not something, then set in alternative dialogue if not wanting
 - can rewrite all transport-or-escort missions `to spawn` instead of two missions
+- Log few months before reach pug: "Finally scraped together enough money for starship"
 
 - ScS rescue section has syndicate new tech; but 'FW reconciliation' ambassadors to bourne mentions syndicate post-check-mutiny have new tech.
 	+ reasonable: developed earlier, finalised and more used later

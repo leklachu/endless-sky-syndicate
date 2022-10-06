@@ -5,6 +5,8 @@ more epilogue
 
 republic reputation at end
 
+change wormhole-removal to use remove object
+
 fix:
 
 - lots of on-visit-missing-passengers/escort

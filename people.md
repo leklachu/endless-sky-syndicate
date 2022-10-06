@@ -10,13 +10,14 @@ Benjamin (Alexander Andrew) Downey (Syndicate 'Greater Manager'), office on Shan
 
 - His ship: a Vanguard, the Feathers McGraw
 
-Uncle William C. Watermann: CEO of Watersoft
+Uncle William C. Washermann: CEO of Watersoft
 
 - Watersoft: Main HQ on Reunion/Caph
 - CEO office on Crossroads/Ruchbah
 
 WC's Wives
 
+- [todo wife person and mission logs]
 - Amanda, 'main' wife on Crossroads
 - Elaina on Moonshake. Goes to Foundry with WC
 	+ assumed to return later
@@ -30,8 +31,10 @@ WC's Wives
 Franz Francis Jr: a Syndicate CEO on Hephaestus
 
 Professor Egelbert Lenforth of the Syndicate Senior Executive Committee
+- log [todo]
 
 Wilkins, pilot of the Korath-catching group ScS Fight Club 1
+- log [todo]
 
 Arnold Reginald Armstrong: Armchair Rights Activist on Farseer/Kursa
 

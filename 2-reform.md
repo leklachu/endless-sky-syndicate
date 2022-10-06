@@ -115,7 +115,7 @@ The fugitives have information that shows an extremist faction within Syndicate 
 - 4, The second would-be escapee is Sawyer, the scientist you met.
 	+ a, pick up his evidence from Charybdis Station
 	+ b, rescue from disabled ship & plant on other disabled ship w/o landing
-	+ (invisible) fail on land-between-ships
+	+ (caught (invisible)) fail on land-between-ships
 	+ (hint) pointer to Alnair for Tom's Adventure
 	+ event: albatross joins free worlds
 - OR deal with this within the syndicate
@@ -130,10 +130,6 @@ End:
 
 # notes
 
-- idea: rescue someone (Sawyer?) by boarding friendly ship, and 'he slips aboard' while the ship appears to be rescued and carries on
-- ScS Call to Aid: deny Joe&Maria payment & second visit as incongruous with this, in case players have that?
-	+ But they'll only have that if started character, and picked up J&M, before loading newer version of plugin
-	+ Actually would prefer to allow player to rescue J&M, but gets tricky to make sure everything works smoothly. What if J&M die in transit?! They got an escape pod?
 - ScS Armchair Rights 2: currently still has a passenger for the message! Could rework to missions-in-series
 - ScS Union Thought 4: would be follow the Rolling Stone from Delve to Covert but game mechanics don't support that!
 - ScS Unionise/bust: can do by shooting down syndicate advisors shuttle or your escort with them!

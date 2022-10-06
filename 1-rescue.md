@@ -70,6 +70,7 @@ There's a report that Deep are secretly recruiting one of the Navy's weapons spe
 - 1. intercept a consultant from the navy secretly recruited by the Deep
 	+ i.e. pretence to consultant that Syndicate, not Deep, recruited
 - 2a. Bring to the Syndicate: Downey on Shangri-La
+	+ [todo] log for BDonwey if not met in Bootstraps (test)
 - 2b. OR bring to WCW's company
 	+ bring to Syndicate OR WCW's company
 

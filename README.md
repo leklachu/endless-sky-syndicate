@@ -1,4 +1,4 @@
-# Syndicate Storyline for Endless Sky, v0.4
+# Crisis in Management, a Syndicate Storyline for Endless Sky, v0.9
 
 This is an alternate start for Endless Sky, with a full storyline running parallel to the Free Worlds story.
 

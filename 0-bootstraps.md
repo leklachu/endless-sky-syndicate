@@ -23,9 +23,7 @@ Sc Package delivery
 - 3 hope...
 - 4 finally clink
 - 5 return to Shangri-La for your pay.
-- OR if war immanent, sorry, co-pilot just got another job you're on your own. Fly him to his new job on Shangri-La
-
-- update co-pilot person log entry
+- OR if war imminent, sorry, co-pilot just got another job you're on your own. Fly him to his new job on Shangri-La
 
 other
 
