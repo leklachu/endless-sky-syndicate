@@ -586,6 +586,8 @@ mission "ScS Pug Support 2"
 	to offer
 		has "ScS Pug Support 1: done"
 	on offer
+		# Deep Archaeology checks if one of two FW missions are offered to see if you know the Pug, so set the FW reconciliation one as offered.
+		set "FW Pug 3: offered"
 		log "Located the Pug homeworld, and met with some of them. They say that they have annexed the neighboring systems into the Pug Protectorate in order to stop the human civil war. However, their idea of bringing peace seems to involve conquering human space and replacing the Republic with their own government."
 		log "Factions" "Pug" `The Pug are aliens with barrel-shaped bodies, spindly legs, and milky blue blood. They claim to have intervened in the human civil war purely for the sake of preventing more bloodshed and helping humans to live together in peace.`
 		conversation
